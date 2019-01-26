@@ -11,7 +11,7 @@ ACY,Atlantic City International,Atlantic City,NJ,USA,39.45758,-74.57717
 ADK,Adak,Adak,AK,USA,51.87796,-176.64603
 ADQ,Kodiak,Kodiak,AK,USA,57.74997,-152.49386
 AEX,Alexandria International,Alexandria,LA,USA,31.32737,-92.54856
-AGS,Augusta Regional (Bush Field),Augusta,GA,USA,33.36996,-81.96450
+AGS,Augusta Regional,Augusta,GA,USA,33.36996,-81.96450
 AKN,King Salmon,King Salmon,AK,USA,58.67680,-156.64922
 ALB,Albany International,Albany,NY,USA,42.74812,-73.80298
 ALO,Waterloo Regional,Waterloo,IA,USA,42.55708,-92.40034
@@ -37,9 +37,9 @@ BJI,Bemidji Regional,Bemidji,MN,USA,47.50942,-94.93372
 BLI,Bellingham International,Bellingham,WA,USA,48.79275,-122.53753
 BMI,Central Illinois Regional at Bloomington/Normal,Bloomington,IL,USA,40.47799,-88.91595
 BNA,Nashville International,Nashville,TN,USA,36.12448,-86.67818
-BOI,Boise (Boise Air Terminal),Boise,ID,USA,43.56444,-116.22278
+BOI,Boise,Boise,ID,USA,43.56444,-116.22278
 BOS,Gen. Edward Lawrence Logan International,Boston,MA,USA,42.36435,-71.00518
-BPT,Jack Brooks Regional (Southeast Texas Regional),Beaumont/Port Arthur,TX,USA,29.95083,-94.02069
+BPT,Jack Brooks Regional,Beaumont/Port Arthur,TX,USA,29.95083,-94.02069
 BQK,Brunswick Golden Isles,Brunswick,GA,USA,31.25903,-81.46631
 BQN,Rafael Hernández,Aguadilla,PR,USA,18.49486,-67.12944
 BRD,Brainerd Lakes Regional,Brainerd,MN,USA,46.39786,-94.13723
@@ -49,15 +49,15 @@ BTM,Bert Mooney,Butte,MT,USA,45.95480,-112.49746
 BTR,Baton Rouge Metropolitan,Baton Rouge,LA,USA,30.53316,-91.14963
 BTV,Burlington International,Burlington,VT,USA,44.47300,-73.15031
 BUF,Buffalo Niagara International,Buffalo,NY,USA,42.94052,-78.73217
-BUR,Bob Hope (Hollywood Burbank),Burbank,CA,USA,34.20062,-118.35850
+BUR,Bob Hope,Burbank,CA,USA,34.20062,-118.35850
 BWI,Baltimore/Washington International,Baltimore,MD,USA,39.17540,-76.66820
-BZN,Bozeman Yellowstone International (Gallatin Field),Bozeman,MT,USA,45.77690,-111.15301
+BZN,Bozeman Yellowstone International,Bozeman,MT,USA,45.77690,-111.15301
 CAE,Columbia Metropolitan,Columbia,SC,USA,33.93884,-81.11954
 CAK,Akron/Canton Regional,Akron,OH,USA,40.91631,-81.44247
 CDC,Cedar City Regional,Cedar City,UT,USA,37.70097,-113.09858
-CDV,Merle K. (Mudhole) Smith,Cordova,AK,USA,60.49183,-145.47765
-CEC,Del Norte County (Jack McNamara Field),Crescent City,CA,USA,41.78016,-124.23653
-CHA,Chattanooga Metropolitan (Lovell Field),Chattanooga,TN,USA,35.03527,-85.20379
+CDV,Merle K.  Smith,Cordova,AK,USA,60.49183,-145.47765
+CEC,Del Norte County,Crescent City,CA,USA,41.78016,-124.23653
+CHA,Chattanooga Metropolitan,Chattanooga,TN,USA,35.03527,-85.20379
 CHO,Charlottesville/Albemarle,Charlottesville,VA,USA,38.13864,-78.45286
 CHS,Charleston International/Charleston AFB,Charleston,SC,USA,32.89865,-80.04051
 CID,The Eastern Iowa,Cedar Rapids,IA,USA,41.88459,-91.71087
@@ -102,9 +102,9 @@ ELM,Elmira/Corning Regional,Elmira,NY,USA,42.15991,-76.89144
 ELP,El Paso International,El Paso,TX,USA,31.80667,-106.37781
 ERI,Erie International,Erie,PA,USA,42.08202,-80.17622
 ESC,Delta County,Escanaba,MI,USA,45.72267,-87.09373
-EUG,Eugene (Mahlon Sweet Field),Eugene,OR,USA,44.12326,-123.21869
+EUG,Eugene,Eugene,OR,USA,44.12326,-123.21869
 EVV,Evansville Regional,Evansville,IN,USA,38.03799,-87.53063
-EWN,Coastal Carolina Regional (Craven County Regional),New Bern,NC,USA,35.07297,-77.04294
+EWN,Coastal Carolina Regional,New Bern,NC,USA,35.07297,-77.04294
 EWR,Newark Liberty International,Newark,NJ,USA,40.69250,-74.16866
 EYW,Key West International,Key West,FL,USA,24.55611,-81.75956
 FAI,Fairbanks International,Fairbanks,AK,USA,64.81368,-147.85967
@@ -123,7 +123,7 @@ GCK,Garden City Regional,Garden City,KS,USA,37.92752,-100.72441
 GEG,Spokane International,Spokane,WA,USA,47.61986,-117.53384
 GFK,Grand Forks International,Grand Forks,ND,USA,47.94926,-97.17611
 GGG,East Texas Regional,Longview,TX,USA,32.38486,-94.71171
-GJT,Grand Junction Regional (Walker Field),Grand Junction,CO,USA,39.12241,-108.52673
+GJT,Grand Junction Regional,Grand Junction,CO,USA,39.12241,-108.52673
 GNV,Gainesville Regional,Gainesville,FL,USA,29.69006,-82.27178
 GPT,Gulfport/Biloxi International,Gulfport/Biloxi,MS,USA,30.40728,-89.07009
 GRB,Green Bay/Austin Straubel International,Green Bay,WI,USA,44.48507,-88.12959
@@ -137,8 +137,8 @@ GTF,Great Falls International,Great Falls,MT,USA,47.48200,-111.37069
 GTR,Golden Triangle Regional,Columbus/Starkville/West Point,MS,USA,33.45033,-88.59137
 GUC,Gunnison/Crested Butte Regional,Gunnison,CO,USA,38.53396,-106.93318
 GUM,Guam International,Agana,GU,USA,13.48345,-144.79598
-HDN,Yampa Valley (Yampa Valley Regional),Hayden,CO,USA,40.48118,-107.21766
-HIB,Range Regional (Chisholm/Hibbing),Hibbing,MN,USA,47.38660,-92.83899
+HDN,Yampa Valley,Hayden,CO,USA,40.48118,-107.21766
+HIB,Range Regional,Hibbing,MN,USA,47.38660,-92.83899
 HLN,Helena Regional,Helena,MT,USA,46.60682,-111.98275
 HNL,Honolulu International,Honolulu,HI,USA,21.31869,-157.92241
 HOB,Lea County Regional,Hobbs,NM,USA,32.68753,-103.21703
@@ -151,7 +151,7 @@ HYS,Hays Regional,Hays,KS,USA,38.84494,-99.27403
 IAD,Washington Dulles International,Chantilly,VA,USA,38.94453,-77.45581
 IAG,Niagara Falls International,Niagara Falls,NY,USA,43.10726,-78.94538
 IAH,George Bush Intercontinental,Houston,TX,USA,29.98047,-95.33972
-ICT,Wichita Dwight D. Eisenhower National (Wichita Mid/Continent),Wichita,KS,USA,37.64996,-97.43305
+ICT,Wichita Dwight D. Eisenhower National,Wichita,KS,USA,37.64996,-97.43305
 IDA,Idaho Falls Regional,Idaho Falls,ID,USA,43.51456,-112.07017
 ILG,Wilmington,Wilmington,DE,USA,39.67872,-75.60653
 ILM,Wilmington International,Wilmington,NC,USA,34.27061,-77.90256
@@ -165,13 +165,13 @@ ITO,Hilo International,Hilo,HI,USA,19.72026,-155.04847
 JAC,Jackson Hole,Jackson,WY,USA,43.60732,-110.73774
 JAN,Jackson/Evers International,Jackson,MS,USA,32.31117,-90.07589
 JAX,Jacksonville International,Jacksonville,FL,USA,30.49406,-81.68786
-JFK,John F. Kennedy International (New York International),New York,NY,USA,40.63975,-73.77893
+JFK,John F. Kennedy International,New York,NY,USA,40.63975,-73.77893
 JLN,Joplin Regional,Joplin,MO,USA,37.15181,-94.49827
 JMS,Jamestown Regional,Jamestown,ND,USA,46.92972,-98.67820
 JNU,Juneau International,Juneau,AK,USA,58.35496,-134.57628
 KOA,Kona International at Keahole,Kailua/Kona,HI,USA,19.73877,-156.04563
 KTN,Ketchikan International,Ketchikan,AK,USA,55.35557,-131.71374
-LAN,Capital Region International ( Lansing Capital City),Lansing,MI,USA,42.77870,-84.58736
+LAN,Capital Region International,Lansing,MI,USA,42.77870,-84.58736
 LAR,Laramie Regional,Laramie,WY,USA,41.31205,-105.67499
 LAS,McCarran International,Las Vegas,NV,USA,36.08036,-115.15233
 LAW,Lawton/Fort Sill Regional,Lawton,OK,USA,34.56771,-98.41664
@@ -181,14 +181,14 @@ LBE,Arnold Palmer Regional,Latrobe,PA,USA,40.27594,-79.40480
 LCH,Lake Charles Regional,Lake Charles,LA,USA,30.12610,-93.22340
 LEX,Blue Grass,Lexington,KY,USA,38.03697,-84.60539
 LFT,Lafayette Regional,Lafayette,LA,USA,30.20528,-91.98766
-LGA,LaGuardia (Marine Air Terminal),New York,NY,USA,40.77724,-73.87261
-LGB,Long Beach (Daugherty Field),Long Beach,CA,USA,33.81772,-118.15161
+LGA,LaGuardia ,New York,NY,USA,40.77724,-73.87261
+LGB,Long Beach,Long Beach,CA,USA,33.81772,-118.15161
 LIH,Lihue,Lihue,HI,USA,21.97598,-159.33896
-LIT,Bill and Hillary Clinton National (Adams Field),Little Rock,AR,USA,34.72940,-92.22425
-LNK,Lincoln (Lincoln Municipal),Lincoln,NE,USA,40.85097,-96.75925
+LIT,Bill and Hillary Clinton National,Little Rock,AR,USA,34.72940,-92.22425
+LNK,Lincoln,Lincoln,NE,USA,40.85097,-96.75925
 LRD,Laredo International,Laredo,TX,USA,27.54374,-99.46154
 LSE,La Crosse Regional,La Crosse,WI,USA,43.87938,-91.25654
-LWS,Lewiston/Nez Perce County,Lewiston,ID,USA,46.37450,-117.01539
+LWS,Lewiston Nez Perce County,Lewiston,ID,USA,46.37450,-117.01539
 MAF,Midland International,Midland,TX,USA,31.94253,-102.20191
 MBS,MBS International,Saginaw,MI,USA,43.53291,-84.07965
 MCI,Kansas City International,Kansas City,MO,USA,39.29761,-94.71391
@@ -197,7 +197,7 @@ MDT,Harrisburg International,Harrisburg,PA,USA,40.19350,-76.76340
 MDW,Chicago Midway International,Chicago,IL,USA,41.78598,-87.75242
 MEI,Meridian Regional,Meridian,MS,USA,32.33313,-88.75121
 MEM,Memphis International,Memphis,TN,USA,35.04242,-89.97667
-MFE,McAllen/Miller International (McAllen Miller International),McAllen,TX,USA,26.17583,-98.23861
+MFE,McAllen/Miller International,McAllen,TX,USA,26.17583,-98.23861
 MFR,Rogue Valley International,Medford,OR,USA,42.37423,-122.87350
 MGM,Montgomery Regional,Montgomery,AL,USA,32.30064,-86.39398
 MHK,Manhattan Regional,Manhattan,KS,USA,39.14097,-96.67083
@@ -212,7 +212,7 @@ MMH,Mammoth Yosemite,Mammoth Lakes,CA,USA,37.62405,-118.83777
 MOB,Mobile Regional,Mobile,AL,USA,30.69142,-88.24283
 MOT,Minot International,Minot,ND,USA,48.25938,-101.28033
 MQT,Sawyer International,Marquette,MI,USA,46.35364,-87.39536
-MRY,Monterey Regional (Monterey Peninsula),Monterey,CA,USA,36.58698,-121.84295
+MRY,Monterey Regional,Monterey,CA,USA,36.58698,-121.84295
 MSN,Dane County Regional,Madison,WI,USA,43.13986,-89.33751
 MSO,Missoula International,Missoula,MT,USA,46.91631,-114.09056
 MSP,Minneapolis/Saint Paul International,Minneapolis,MN,USA,44.88055,-93.21692
@@ -230,7 +230,7 @@ ONT,Ontario International,Ontario,CA,USA,34.05600,-117.60119
 ORD,Chicago O'Hare International,Chicago,IL,USA,41.97960,-87.90446
 ORF,Norfolk International,Norfolk,VA,USA,36.89461,-76.20122
 ORH,Worcester Regional,Worcester,MA,USA,42.26734,-71.87571
-OTH,Southwest Oregon Regional (North Bend Municipal),North Bend,OR,USA,43.41714,-124.24603
+OTH,Southwest Oregon Regional,North Bend,OR,USA,43.41714,-124.24603
 OTZ,Ralph Wien Memorial,Kotzebue,AK,USA,66.88468,-162.59855
 PAH,Barkley Regional,Paducah,KY,USA,37.06083,-88.77375
 PBG,Plattsburgh International,Plattsburgh,NY,USA,,
@@ -244,8 +244,8 @@ PIB,Hattiesburg/Laurel Regional,Hattiesburg/Laurel,MS,USA,31.46715,-89.33706
 PIH,Pocatello Regional,Pocatello,ID,USA,42.91131,-112.59586
 PIT,Pittsburgh International,Pittsburgh,PA,USA,40.49147,-80.23287
 PLN,Pellston Regional of Emmet County,Pellston,MI,USA,45.57093,-84.79672
-PNS,Pensacola International (Pensacola Gulf Coast Regional),Pensacola,FL,USA,30.47331,-87.18744
-PPG,Pago Pago International (Tafuna),Pago Pago,AS,USA,14.33102,-170.71053
+PNS,Pensacola International,Pensacola,FL,USA,30.47331,-87.18744
+PPG,Pago Pago International ,Pago Pago,AS,USA,14.33102,-170.71053
 PSC,Tri/Cities,Pasco,WA,USA,46.26468,-119.11903
 PSE,Mercedita,Ponce,PR,USA,18.00830,-66.56301
 PSG,Petersburg James A. Johnson,Petersburg,AK,USA,56.80165,-132.94528
@@ -255,27 +255,27 @@ PVD,Theodore Francis Green State,Providence,RI,USA,41.72400,-71.42822
 PWM,Portland International Jetport,Portland,ME,USA,43.64617,-70.30875
 RAP,Rapid City Regional,Rapid City,SD,USA,44.04532,-103.05737
 RDD,Redding Municipal,Redding,CA,USA,40.50898,-122.29340
-RDM,Redmond Municipal (Roberts Field),Redmond,OR,USA,44.25407,-121.14996
+RDM,Redmond Municipal,Redmond,OR,USA,44.25407,-121.14996
 RDU,Raleigh/Durham International,Raleigh,NC,USA,35.87764,-78.78747
 RHI,Rhinelander/Oneida County,Rhinelander,WI,USA,45.63119,-89.46745
 RIC,Richmond International,Richmond,VA,USA,37.50517,-77.31967
 RKS,Rock Springs/Sweetwater County,Rock Springs,WY,USA,41.59422,-109.06519
 RNO,Reno/Tahoe International,Reno,NV,USA,39.49858,-119.76806
-ROA,Roanoke Regional (Woodrum Field),Roanoke,VA,USA,37.32547,-79.97543
+ROA,Roanoke Regional,Roanoke,VA,USA,37.32547,-79.97543
 ROC,Greater Rochester International,Rochester,NY,USA,43.11887,-77.67238
 ROW,Roswell International Air Center,Roswell,NM,USA,33.30156,-104.53056
 RST,Rochester International,Rochester,MN,USA,43.90883,-92.49799
 RSW,Southwest Florida International,Ft. Myers,FL,USA,26.53617,-81.75517
 SAF,Santa Fe Municipal,Santa Fe,NM,USA,35.61678,-106.08814
-SAN,San Diego International (Lindbergh Field),San Diego,CA,USA,32.73356,-117.18966
+SAN,San Diego International,San Diego,CA,USA,32.73356,-117.18966
 SAT,San Antonio International,San Antonio,TX,USA,29.53369,-98.46978
 SAV,Savannah/Hilton Head International,Savannah,GA,USA,32.12758,-81.20214
-SBA,Santa Barbara Municipal (Santa Barbara),Santa Barbara,CA,USA,34.42621,-119.84037
-SBN,South Bend International (South Bend Regional),South Bend,IN,USA,41.70895,-86.31847
-SBP,San Luis Obispo County Regional (McChesney Field),San Luis Obispo,CA,USA,35.23706,-120.64239
-SCC,Deadhorse (Prudhoe Bay),Deadhorse,AK,USA,70.19476,-148.46516
+SBA,Santa Barbara Municipal,Santa Barbara,CA,USA,34.42621,-119.84037
+SBN,South Bend International,South Bend,IN,USA,41.70895,-86.31847
+SBP,San Luis Obispo County Regional,San Luis Obispo,CA,USA,35.23706,-120.64239
+SCC,Deadhorse,Deadhorse,AK,USA,70.19476,-148.46516
 SCE,University Park,State College,PA,USA,40.85121,-77.84630
-SDF,Louisville International (Standiford Field),Louisville,KY,USA,38.17439,-85.73600
+SDF,Louisville International,Louisville,KY,USA,38.17439,-85.73600
 SEA,Seattle/Tacoma International,Seattle,WA,USA,47.44898,-122.30931
 SFO,San Francisco International,San Francisco,CA,USA,37.61900,-122.37484
 SGF,Springfield/Branson National,Springfield,MO,USA,37.24433,-93.38686
@@ -283,12 +283,12 @@ SGU,St. George Regional,St George,UT,USA,37.09058,-113.59306
 SHV,Shreveport Regional,Shreveport,LA,USA,32.44663,-93.82560
 SIT,Sitka Rocky Gutierrez,Sitka,AK,USA,57.04714,-135.36160
 SJC,Norman Y. Mineta San José International,San Jose,CA,USA,37.36186,-121.92901
-SJT,San Angelo Regional (Mathis Field),San Angelo,TX,USA,31.35775,-100.49631
+SJT,San Angelo Regional,San Angelo,TX,USA,31.35775,-100.49631
 SJU,Luis Muñoz Marín International,San Juan,PR,USA,18.43942,-66.00183
 SLC,Salt Lake City International,Salt Lake City,UT,USA,40.78839,-111.97777
 SMF,Sacramento International,Sacramento,CA,USA,38.69542,-121.59077
-SMX,Santa Maria Public (Capt G. Allan Hancock Field),Santa Maria,CA,USA,34.89925,-120.45758
-SNA,John Wayne (Orange County),Santa Ana,CA,USA,33.67566,-117.86822
+SMX,Santa Maria Public,Santa Maria,CA,USA,34.89925,-120.45758
+SNA,John Wayne,Santa Ana,CA,USA,33.67566,-117.86822
 SPI,Abraham Lincoln Capital,Springfield,IL,USA,39.84395,-89.67762
 SPS,Wichita Falls Municipal/Sheppard AFB,Wichita Falls,TX,USA,33.98880,-98.49189
 SRQ,Sarasota/Bradenton International,Sarasota,FL,USA,27.39533,-82.55411
@@ -308,11 +308,11 @@ TTN,Trenton Mercer,Trenton,NJ,USA,40.27669,-74.81347
 TUL,Tulsa International,Tulsa,OK,USA,36.19837,-95.88824
 TUS,Tucson International,Tucson,AZ,USA,32.11608,-110.94103
 TVC,Cherry Capital,Traverse City,MI,USA,44.74144,-85.58224
-TWF,Magic Valley Regional (Joslin Field),Twin Falls,ID,USA,42.48180,-114.48774
-TXK,Texarkana Regional (Webb Field),Texarkana,AR,USA,33.45371,-93.99102
+TWF,Magic Valley Regional,Twin Falls,ID,USA,42.48180,-114.48774
+TXK,Texarkana Regional,Texarkana,AR,USA,33.45371,-93.99102
 TYR,Tyler Pounds Regional,Tyler,TX,USA,32.35414,-95.40239
 TYS,McGhee Tyson,Knoxville,TN,USA,35.81249,-83.99286
-UST,Northeast Florida Regional (St. Augustine),St. Augustine,FL,USA,,
+UST,Northeast Florida Regional,St. Augustine,FL,USA,,
 VEL,Valdez,Vernal,UT,USA,40.44090,-109.50992
 VLD,Valdosta Regional,Valdosta,GA,USA,30.78250,-83.27672
 VPS,Destin/Fort Walton Beach/Eglin AFB,Valparaiso,FL,USA,30.48325,-86.52540
