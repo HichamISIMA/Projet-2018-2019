@@ -11,7 +11,7 @@
 10011,Peach Springs,AZ,Grand Canyon West
 10012,Blairstown,NJ,Blairstown
 10013,Crosbyton,TX,Crosbyton Municipal
-10014,Fairbanks/Ft. Wainwright,AK,Blair Lake
+10014,Fairbanks Ft. Wainwright,AK,Blair Lake
 10015,Deadmans Bay,AK,Deadmans Bay
 10016,Hallo Bay,AK,Hallo Bay
 10017,Red Lake,AK,Red Lake
@@ -118,7 +118,7 @@
 10131,Asau,Samoa,Asau W Sam
 10132,Araxa,Brazil,Araxa
 10134,Abadan,Iran,Abadan
-10135,Allentown/Bethlehem/Easton,PA,Lehigh Valley International
+10135,Allentown Bethlehem Easton,PA,Lehigh Valley International
 10136,Abilene,TX,Abilene Regional
 10137,Abidjan,Cote d'Ivoire,Felix Houphouet Boigny Abidjan International
 10138,Kabri Dar,Ethiopia,Kebri Dahar
@@ -126,7 +126,7 @@
 10140,Albuquerque,NM,Albuquerque International Sunport
 10141,Aberdeen,SD,Aberdeen Regional
 10142,Abu Simbel,Egypt,Abu Simbel
-10143,Al-Baha,Saudi Arabia,King Saud Bin Abdulaziz
+10143,Al Baha,Saudi Arabia,King Saud Bin Abdulaziz
 10144,Abuja,Nigeria,Nnamdi Azikiwe International
 10145,Albury,Australia,Albury
 10146,Albany,GA,Southwest Georgia Regional
@@ -140,7 +140,7 @@
 10154,Nantucket,MA,Nantucket Memorial
 10155,Waco,TX,Waco Regional
 10156,Achutupo,Panama,Achutupo
-10157,Arcata/Eureka,CA,California Redwood Coast Humboldt County
+10157,Arcata Eureka,CA,California Redwood Coast Humboldt County
 10158,Atlantic City,NJ,Atlantic City International
 10159,Adana,Turkey,Adana International
 10160,Izmir,Turkey,Adnan Menderes
@@ -164,7 +164,7 @@
 10178,Abeche,Chad,Abeche
 10180,Aioun El Atrouss,Mauritania,Aioun El Atrouss
 10181,Buenos Aires,Argentina,Aeroparque Jorge Newbery
-10182,Adler/Sochi,Russia,Adler/Sochi
+10182,Adler Sochi,Russia,Adler Sochi
 10183,Aalesund,Norway,Vigra
 10184,Allakaket,AK,Allakaket
 10185,Alexandria,LA,Alexandria International
@@ -174,14 +174,14 @@
 10190,Nebraska,NE,Nebraska City Municipal
 10191,Afton,WY,Afton Municipal
 10192,Wadesboro,NC,Anson County Jeff Cloud Field
-10194,Dallas/Fort Worth,TX,Fort Worth Alliance
+10194,Dallas Fort Worth,TX,Fort Worth Alliance
 10195,Afyon,Turkey,Afyon
 10196,Agadir,Morocco,Inezgane
 10197,Augsburg,Germany,Augsburg
 10198,Pittsburgh,PA,Allegheny County
 10199,Agen,France,Agen La Garenne
 10200,Angoram,Papua New Guinea,Angoram
-10201,Angelholm/Helsingborg,Sweden,Angelholm
+10201,Angelholm Helsingborg,Sweden,Angelholm
 10202,Kagua,Papua New Guinea,Kagua
 10203,Wanigela,Papua New Guinea,Wanigela
 10204,Angoon,AK,Angoon Seaplane Base
@@ -196,14 +196,14 @@
 10213,Okinawa,Japan,Naha AB
 10214,Abha,Saudi Arabia,Abha
 10215,Ardmore,OK,Ardmore Downtown Executive
-10216,Athens,GA,Athens/Ben Epps
-10217,Alghero/Sassari,Italy,Alghero
+10216,Athens,GA,Athens Ben Epps
+10217,Alghero Sassari,Italy,Alghero
 10218,Ahuas,Honduras,Auas
 10219,Amchitka Island,AK,Amchitka
 10220,Al Hoceima,Morocco,Cherif El Idrissi International
 10221,Alliance,NE,Alliance Municipal
 10222,Anita Bay,AK,Anita Bay
-10223,Anderson,IN,Anderson Municipal-Darlington Field
+10223,Anderson,IN,Anderson Municipal Darlington Field
 10224,Aiken,SC,Aiken Municipal
 10225,Wainwright,AK,Wainwright
 10226,Aitutaki,Cook Islands,Aitutaki
@@ -232,7 +232,7 @@
 10250,Akrotiri,Cyprus,Akrotiri
 10251,Aktyubinsk,Kazakhstan,Aktyubinsk
 10252,Sittwe,Burma,Sittwe
-10253,Albertville,AL,Albertville Regional-Thomas J Brumlik Field
+10253,Albertville,AL,Albertville Regional Thomas J Brumlik Field
 10254,Alabaster,AL,Shelby County
 10255,Huntsville,AL,Huntsville Executive Tom Sharp Jr
 10256,Almaty,Kazakhstan,Almaty
@@ -251,7 +251,7 @@
 10269,Aleppo,Syria,Aleppo International
 10270,Alegrete,Brazil,Alegrete
 10271,Alexandra,New Zealand,Alexandra
-10272,Alamosa,CO,San Luis Valley Regional/Bergman Field
+10272,Alamosa,CO,San Luis Valley Regional Bergman Field
 10273,Alenquer,Brazil,Alenquer
 10274,Alula,Somalia,Alula
 10275,Walla Walla,WA,Walla Walla Regional
@@ -275,7 +275,7 @@
 10294,Ames,IA,Ames Municipal
 10295,Ammaroo,Australia,Ammaroo Station
 10296,Ambatomainty,Madagascar,Ambatomainty
-10297,Anaheim,CA,Anaheim-Disneyland HP
+10297,Anaheim,CA,Anaheim Disneyland HP
 10298,Anniston,AL,Anniston Regional
 10299,Anchorage,AK,Ted Stevens Anchorage International
 10300,Anderson,SC,Anderson Regional
@@ -298,7 +298,7 @@
 10319,Aomori,Japan,Aomori
 10320,Karpathos,Greece,Karpathos
 10321,Paso de Los Libres,Argentina,Paso de Los Libres
-10322,Altoona,PA,Altoona-Blair County
+10322,Altoona,PA,Altoona Blair County
 10323,Alor Setar,Malaysia,Sultan Abdul Halim
 10324,Amook Bay,AK,Amook Bay
 10325,Denver,CO,Centennial
@@ -326,7 +326,7 @@
 10348,Ann Arbor,MI,Ann Arbor Municipal
 10349,Arctic Village,AK,Arctic Village
 10350,Alor,Indonesia,Arcadia Municipal
-10351,Arecibo,PR,Antonio/Nery/Juarbe Pol
+10351,Arecibo,PR,Antonio Nery Juarbe Pol
 10352,Walnut Ridge,AR,Walnut Ridge Regional
 10353,Arkhangelsk,Russia,Talagi
 10354,Arica,Chile,Chacalluta
@@ -338,9 +338,9 @@
 10360,Aragarcas,Brazil,Aragarcas
 10361,Watertown,NY,Watertown International
 10362,Aracatuba,Brazil,Aracatuba
-10363,Minocqua/Woodruff,WI,Lakeland/Noble F. Lee Memorial Field
+10363,Minocqua Woodruff,WI,Lakeland Noble F. Lee Memorial Field
 10364,Arad,Romania,Arad International
-10365,Asbury Park,NJ,Asbury Park/Monmouth County
+10365,Asbury Park,NJ,Asbury Park Monmouth County
 10366,Ararat,Australia,Ararat
 10367,N'zeto,Angola,N'zeto
 10368,Assab,Eritrea,Assab International
@@ -360,7 +360,7 @@
 10382,Alice Springs,Australia,Alice Springs
 10383,Austin,NV,Austin
 10384,Kayseri,Turkey,Kayseri
-10385,Astoria/Seaside,OR,Astoria Regional
+10385,Astoria Seaside,OR,Astoria Regional
 10386,Asuncion,Paraguay,Silvio Pettirossi International
 10387,Aswan,Egypt,Aswan International
 10388,Ashland,WI,John F Kennedy Memorial
@@ -372,7 +372,7 @@
 10394,Athens,Greece,Eleftherios Venizelos International
 10395,Artigas,Uruguay,Artigas International
 10396,Atqasuk,AK,Atqasuk Edward Burnell Sr. Memorial
-10397,Atlanta,GA,Hartsfield-Jackson Atlanta International
+10397,Atlanta,GA,Hartsfield Jackson Atlanta International
 10398,Altamira,Brazil,Altamira
 10399,Namatanai,Papua New Guinea,Namatanai
 10400,Athens,OH,Ohio University
@@ -389,16 +389,16 @@
 10411,Aruba,Aruba,Reina Beatrix International
 10412,Arauca,Colombia,Santiago Perez
 10413,Augustus Downs,Australia,Augustus Downs
-10414,Augusta/Waterville,ME,Augusta State
+10414,Augusta Waterville,ME,Augusta State
 10415,Abu Dhabi,United Arab Emirates,Abu Dhabi International
 10416,Alakanuk,AK,Alakanuk
-10417,Austin/Albert Lea,MN,Austin Municipal
+10417,Austin Albert Lea,MN,Austin Municipal
 10418,Auburn,CA,Auburn Municipal
 10419,Auburn,AL,Auburn University Regional
 10420,Aguan,Papua New Guinea,Aguan Papua N.G.
-10421,Atuona,French Polynesia,Hiva Oa/Atuona
+10421,Atuona,French Polynesia,Hiva Oa Atuona
 10422,Aurillac,France,Aurillac
-10423,Austin,TX,Austin - Bergstrom International
+10423,Austin,TX,Austin   Bergstrom International
 10424,Wausau,WI,Wausau Downtown
 10425,Araguaina,Brazil,Araguaina
 10426,Aneityum,Vanuatu,Aneityum
@@ -408,7 +408,7 @@
 10431,Asheville,NC,Asheville Regional
 10432,Avignon,France,Avignon Caumont
 10433,Avon Park,FL,Avon Park Executive
-10434,Scranton/Wilkes-Barre,PA,Wilkes Barre Scranton International
+10434,Scranton Wilkes Barre,PA,Wilkes Barre Scranton International
 10435,Avalon,Australia,Avalon
 10436,Tucson,AZ,Marana Regional
 10437,Avalon,CA,Catalina
@@ -425,7 +425,7 @@
 10448,Armenia,Colombia,El Eden
 10449,Alexandria,MN,Chandler Field
 10450,Spring Point,The Bahamas,Spring Point
-10451,Altus,OK,Altus/Quartz Mountain Regional
+10451,Altus,OK,Altus Quartz Mountain Regional
 10452,Akita,Japan,Akita
 10453,Axum,Ethiopia,Axum Atse Yohannes IV
 10454,Wapakoneta,OH,Neil Armstrong
@@ -434,16 +434,16 @@
 10457,Ayacucho,Peru,Coronel FAP Alfredo Mendivil Duarte
 10458,Ayers Rock,Australia,Ayers Rock Connellan
 10459,Ayr,Australia,Ayr
-10460,Waycross,GA,Waycross-Ware County
+10460,Waycross,GA,Waycross Ware County
 10461,Antalya,Turkey,Antalya
 10462,Ayawasi,Indonesia,Ayawasi
 10463,Grand Canyon,AZ,Valle
 10464,Williams,AZ,H. A. Clark Memorial Field
 10465,Glendale,AZ,Glendale Municipal
-10466,Phoenix,AZ,Phoenix - Mesa Gateway
+10466,Phoenix,AZ,Phoenix   Mesa Gateway
 10467,Yazd,Iran,Shahid Sadooghi
 10468,Apatzingan,Mexico,Pablo L. Sidar
-10469,Kalamazoo,MI,Kalamazoo/Battle Creek International
+10469,Kalamazoo,MI,Kalamazoo Battle Creek International
 10470,Samana,Dominican Republic,El Catey International
 10471,Biddeford,ME,Biddeford Municipal
 10472,Carrabassett,ME,Sugarloaf Regional
@@ -463,7 +463,7 @@
 10486,Barranquilla,Colombia,Ernesto Cortissoz
 10487,Baker Island,AK,Baker AAF
 10488,Barth,East Germany,Barth
-10489,Bauru,Brazil,Bauru-Arealva
+10489,Bauru,Brazil,Bauru Arealva
 10490,Baotou,China,Baotou
 10491,Barnaul,Russia,Mikhaylovka
 10492,Baia Mare,Romania,Maramures
@@ -481,11 +481,11 @@
 10505,Bambari,Central African Republic,Bambari
 10506,Zambezi,Zambia,Zambezi
 10507,Baracoa,Cuba,Gustavo Rizo
-10508,Blacksburg,VA,Virginia Tech/Montgomery Executive
+10508,Blacksburg,VA,Virginia Tech Montgomery Executive
 10509,Bear Creek,AK,Bear Creek
 10510,Bacolod,Philippines,Bacolod
 10511,Bryce Canyon,UT,Bryce Canyon
-10512,Baucau,Timor-Leste,Cakung
+10512,Baucau,Timor Leste,Cakung
 10513,Barcaldine,Australia,Barcaldine
 10514,Crestone,CO,Baca Grande
 10515,Barra del Colorado,Costa Rica,Barra del Colorado
@@ -501,12 +501,12 @@
 10525,Bandar Lengeh,Iran,Bandar Lengeh
 10526,Bird Island,Seychelles,Bird Island
 10527,Bandjarmasin,Indonesia,Syamsudin Noor
-10528,Bondoukou,Cote d'Ivoire,Bondoukou/Soko
+10528,Bondoukou,Cote d'Ivoire,Bondoukou Soko
 10529,Hartford,CT,Bradley International
 10530,Bandirma,Turkey,Bandirma
 10531,Badin,Pakistan,Talhar
 10532,Bandung,Indonesia,Husein Sastranegara
-10533,Bhadrapur/Chandragadhi,Nepal,Chandragadhi
+10533,Bhadrapur Chandragadhi,Nepal,Chandragadhi
 10534,Vadodara,India,Vadodara
 10535,Bridgeport,CT,Igor I Sikorsky Memorial
 10536,Brindisi,Italy,Brindisi
@@ -516,7 +516,7 @@
 10540,Bedford,MA,Laurence G Hanscom Field
 10541,Bluefields,Nicaragua,Bluefields
 10542,Belgrade,Serbia,Beograd
-10543,Benton Harbor/St. Joseph,MI,Southwest Michigan Regional
+10543,Benton Harbor St. Joseph,MI,Southwest Michigan Regional
 10544,Beica,Ethiopia,Beica
 10545,Belem,Brazil,Val de Cans International
 10547,Benghazi,Libya,Benina International
@@ -530,8 +530,8 @@
 10555,Beirut,Lebanon,Rafic Hariri International
 10556,Blue Fox Bay,AK,Blue Fox Bay
 10557,Bradford,PA,Bradford Regional
-10558,Scottsbluff,NE,Western Neb. Regional/William B. Heilig Field
-10559,Seattle,WA,Boeing Field/King County International
+10558,Scottsbluff,NE,Western Neb. Regional William B. Heilig Field
+10559,Seattle,WA,Boeing Field King County International
 10560,Aurora,CO,Buckley AFB
 10561,Bakersfield,CA,Meadows Field
 10562,Mobile,AL,Mobile Downtown
@@ -546,23 +546,23 @@
 10571,Booue,Gabon,Booue
 10572,Borger,TX,Hutchinson County
 10573,Bainbridge,GA,Decatur County Industrial Air Park
-10574,Bangui,Central African Republic,Bangui-M'Poko
-10575,Barbados/Bridgetown,Barbados,Grantley Adams International
+10574,Bangui,Central African Republic,Bangui M'Poko
+10575,Barbados Bridgetown,Barbados,Grantley Adams International
 10576,Baglung,Nepal,Baglung
-10577,Binghamton,NY,Greater Binghamton/Edwin A. Link Field
+10577,Binghamton,NY,Greater Binghamton Edwin A. Link Field
 10578,Bruggen,Germany,Bruggen
 10579,Bergen,Norway,Flesland
 10580,Big Lake,AK,Big Lake
 10581,Bangor,ME,Bangor International
-10582,Big Spring,TX,Big Spring McMahon-Wrinkle
+10582,Big Spring,TX,Big Spring McMahon Wrinkle
 10583,Bagdad,AZ,Bagdad
 10584,Bangassou,Central African Republic,Bangassou
 10585,Baghdad,Iraq,Al Muthana
 10586,Bage,Brazil,Comandante Gustavo Kraemer
 10587,Bergamo,Italy,Bergamo Orio Al Serio
 10588,Shaikh Isa,Bahrain,Isa AB
-10589,Bar Harbor,ME,Hancock County-Bar Harbor
-10590,Bullhead City,AZ,Laughlin/Bullhead International
+10589,Bar Harbor,ME,Hancock County Bar Harbor
+10590,Bullhead City,AZ,Laughlin Bullhead International
 10591,Belfast,United Kingdom,Belfast City
 10592,Blenheim,New Zealand,Woodbourne
 10593,Brus Laguna,Honduras,Araslaya
@@ -571,7 +571,7 @@
 10596,Bhuj,India,Bhuj
 10597,Bukhara,Uzbekistan,Bukhara
 10598,Bahia de Los Angeles,Mexico,Bahia de Los Angeles North
-10599,Birmingham,AL,Birmingham-Shuttlesworth International
+10599,Birmingham,AL,Birmingham Shuttlesworth International
 10600,Beihan,Yemen,Beihan
 10601,Bhopal,India,Raja Bhoj
 10602,Broken Hill,Australia,Broken Hill
@@ -599,7 +599,7 @@
 10624,Bulimba,Australia,Bulimba
 10625,Biarritz,France,Biarritz Pays Basque
 10626,Biratnagar,Nepal,Biratnagar
-10627,Bismarck/Mandan,ND,Bismarck Municipal
+10627,Bismarck Mandan,ND,Bismarck Municipal
 10628,Bria,Central African Republic,Bria
 10629,Biloxi,MS,Keesler AFB
 10630,Broomfield,CO,Rocky Mountain Metro
@@ -610,7 +610,7 @@
 10635,Bahir Dar,Ethiopia,Bahir Dar Ginbot Haya International
 10636,Bajura,Nepal,Bajura
 10637,Bodrum,Turkey,Imsik
-10638,Leon/Guanajuato,Mexico,Guanajuato International
+10638,Leon Guanajuato,Mexico,Guanajuato International
 10639,Badajoz,Spain,Badajoz
 10640,Buckland,AK,Buckland
 10641,Baker,OR,Baker City Municipal
@@ -634,20 +634,20 @@
 10660,Bali,Cameroon,Bali
 10661,Boulder City,NV,Boulder City Municipal
 10662,Borlange,Sweden,Borlange
-10663,Princeton/Bluefield,WV,Mercer County
+10663,Princeton Bluefield,WV,Mercer County
 10664,Belaga,Malaysia,Belaga
 10665,Blythe,CA,Blythe
 10666,Bellingham,WA,Bellingham International
 10667,Batna,Algeria,Mostepha Ben Boulaid
 10668,Blackpool,United Kingdom,Blackpool
 10669,Billund,Denmark,Billund
-10670,Belmar/Farmingdale,NJ,Monmouth Executive
+10670,Belmar Farmingdale,NJ,Monmouth Executive
 10671,Blonduos,Iceland,Blonduos
 10672,Bellavista,Peru,Bellavista 1
 10673,Bologna,Italy,Bologna
 10674,Bangalore,India,Kempegowda International
 10675,Blackwater,Australia,Blackwater
-10676,Belleville,IL,Scott AFB/MidAmerica
+10676,Belleville,IL,Scott AFB MidAmerica
 10677,Blantyre,Malawi,Chileka International
 10678,Stockholm,Sweden,Bromma
 10679,Bumba,Congo (Kinshasa),Bumba
@@ -656,7 +656,7 @@
 10682,Broome,Australia,Broome International
 10683,Bloomington,IN,Monroe County
 10684,Bomai,Papua New Guinea,Bomai
-10685,Bloomington/Normal,IL,Central Illinois Regional
+10685,Bloomington Normal,IL,Central Illinois Regional
 10686,Baramita,Guyana,Baramita
 10687,Berlin,NH,Berlin Regional
 10688,Bitam,Gabon,Bitam
@@ -699,7 +699,7 @@
 10725,Bislig,Philippines,Bislig
 10726,Balikpapan,Indonesia,Sultan Aji Muhammad Sulaiman Sepinggan
 10727,Porto Seguro,Brazil,Porto Seguro
-10728,Beaumont/Port Arthur,TX,Jack Brooks Regional
+10728,Beaumont Port Arthur,TX,Jack Brooks Regional
 10729,Baler,Philippines,Baler
 10730,London,United Kingdom,Biggin Hill
 10731,Brunswick,GA,Brunswick Golden Isles
@@ -717,7 +717,7 @@
 10743,Bourke,Australia,Bourke
 10744,Burlington,IA,Southeast Iowa Regional
 10745,Barquisimeto,Venezuela,Barquisimeto International
-10746,Berne,Switzerland,Bern/Belp
+10746,Berne,Switzerland,Bern Belp
 10747,Brownsville,TX,Brownsville South Padre Island International
 10748,Brno,Czech Republic,Turany
 10749,Barra,United Kingdom,Barra
@@ -725,7 +725,7 @@
 10751,Bathurst Island,Australia,Bathurst Island
 10752,Brussels,Belgium,Brussels National
 10753,Bremerhaven,Germany,Bremerhaven
-10754,Barrow,AK,Wiley Post/Will Rogers Memorial
+10754,Barrow,AK,Wiley Post Will Rogers Memorial
 10755,Barahona,Dominican Republic,Barahona Habanero
 10756,Bardstown,KY,Samuels Field
 10757,Bosaso,Somalia,Bosaso
@@ -752,7 +752,7 @@
 10778,Battle Creek,MI,W K Kellogg
 10779,Butte,MT,Bert Mooney
 10780,Butler,PA,Pittsburgh Butler Regional
-10781,Baton Rouge,LA,Baton Rouge Metropolitan/Ryan Field
+10781,Baton Rouge,LA,Baton Rouge Metropolitan Ryan Field
 10782,Bratislava,Slovakia,M R Stefanik
 10783,Bettles,AK,Bettles
 10784,Bintulu,Malaysia,Bintulu
@@ -788,10 +788,10 @@
 10815,Beverly,MA,Beverly Regional
 10816,Bhairawa,Nepal,Gautam Buddha
 10817,Brownwood,TX,Brownwood Regional
-10818,Braunschweig,Germany,Braunschweig/Wolfsburg
-10819,Bowling Green,KY,Bowling Green-Warren County Regional
+10818,Braunschweig,Germany,Braunschweig Wolfsburg
+10819,Bowling Green,KY,Bowling Green Warren County Regional
 10820,Butterworth,Malaysia,Butterworth
-10821,Baltimore,MD,Baltimore/Washington International Thurgood Marshall
+10821,Baltimore,MD,Baltimore Washington International Thurgood Marshall
 10822,Bawan,Papua New Guinea,Bawan
 10823,Bowman,ND,Bowman Municipal
 10824,Bandar Seri Begawan,Brunei,Brunei International
@@ -805,10 +805,10 @@
 10833,Butuan,Philippines,Bancasi
 10834,Boundary,AK,Boundary
 10835,Yacuiba,Bolivia,Yacuiba
-10836,Rock Hill,SC,Rock Hill/York County/Bryant Field
+10836,Rock Hill,SC,Rock Hill York County Bryant Field
 10837,Buffalo,WY,Johnson County
 10838,Blytheville,AR,Arkansas International
-10839,Burley/Rupert,ID,Burley Municipal
+10839,Burley Rupert,ID,Burley Municipal
 10840,Bouake,Cote d'Ivoire,Bouake
 10841,Boyne Falls,MI,Boyne Mountain
 10842,Bantry,Ireland,Bantry
@@ -841,11 +841,11 @@
 10871,Ca Mau,Vietnam,Ca Mau
 10872,Cairo,Egypt,Cairo International
 10873,Canaima,Venezuela,Canaima
-10874,Akron,OH,Akron-Canton Regional
+10874,Akron,OH,Akron Canton Regional
 10875,Campbeltown,United Kingdom,Campbeltown
 10876,Camiri,Bolivia,Choreti
 10877,Guangzhou,China,Baiyun International
-10878,Cap-Haitien,Haiti,Cap-Haitien International
+10878,Cap Haitien,Haiti,Cap Haitien International
 10879,Caribou,ME,Caribou Municipal
 10880,Casablanca,Morocco,Anfa
 10881,New Bight,The Bahamas,New Bight
@@ -858,7 +858,7 @@
 10888,Cumberland,MD,Greater Cumberland Regional
 10889,Council Bluffs,IA,Council Bluffs Municipal
 10890,Cambridge,United Kingdom,Cambridge
-10891,Colomb-Bechar,Algeria,Bechar/Leger
+10891,Colomb Bechar,Algeria,Bechar Leger
 10892,Colby,KS,Murray
 10893,Ciudad Bolivar,Venezuela,Ciudad Bolivar
 10894,Columbus,MS,Columbus AFB
@@ -894,7 +894,7 @@
 10926,Cordova,AK,Merle K Mudhole Smith
 10927,Caldwell,NJ,Essex County
 10928,Wichita,KS,Cessna Aircraft Field
-10929,Lapu-Lapu City,Philippines,Mactan-Cebu International
+10929,Lapu Lapu City,Philippines,Mactan Cebu International
 10930,Crescent City,CA,Jack McNamara Field
 10931,Ceduna,Australia,Ceduna
 10933,Chicopee Falls,MA,Westover ARB Metropolitan
@@ -913,11 +913,11 @@
 10946,Connersville,IN,Mettel Field
 10947,Crestview,FL,Bob Sikes
 10948,Chena Hot Springs,AK,Chena Hot Springs
-10949,Murray,KY,Kyle-Oakley Field
+10949,Murray,KY,Kyle Oakley Field
 10950,Cortez,CO,Cortez Municipal
 10951,Coffee Point,AK,Coffee Point
 10952,Cabo Frio,Brazil,Cabo Frio
-10953,Clermont-Ferrand,France,Clermont Ferrand Auvergne
+10953,Clermont Ferrand,France,Clermont Ferrand Auvergne
 10954,Cienfuegos,Cuba,Jaime Gonzalez International
 10955,Silver City,Canada,Silver City
 10956,Caen,France,Caen Carpiquet
@@ -932,7 +932,7 @@
 10965,Cleveland,OH,Cuyahoga County
 10966,Sao Paulo,Brazil,Congonhas
 10967,Cape Girardeau,MO,Cape Girardeau Regional
-10968,Jakarta,Indonesia,Soekarno-Hatta International
+10968,Jakarta,Indonesia,Soekarno Hatta International
 10969,Camiguin,Philippines,Camiguin
 10970,Cologne,Germany,Koeln Bonn
 10971,Zhengzhou,China,Xinzheng
@@ -957,7 +957,7 @@
 10991,Circle Hot Springs,AK,Circle Hot Springs
 10992,Chania,Greece,Souda
 10993,Chateauroux,France,Chateauroux
-10994,Charleston,SC,Charleston AFB/International
+10994,Charleston,SC,Charleston AFB International
 10995,Chatham Islands,New Zealand,Chatham Islands
 10996,Chuathbaluk,AK,Chuathbaluk
 10997,Jiuquan,China,Jiayuguan
@@ -966,8 +966,8 @@
 11000,Rome,Italy,Ciampino
 11001,Avalon,CA,Catalina
 11002,Chico,CA,Chico Municipal
-11003,Cedar Rapids/Iowa City,IA,The Eastern Iowa
-11004,Craig,CO,Craig-Moffat
+11003,Cedar Rapids Iowa City,IA,The Eastern Iowa
+11004,Craig,CO,Craig Moffat
 11005,Changzhi,China,Changzhi
 11006,Cobija,Bolivia,Cap Av Civ Anibal Arab Fadul International
 11007,Chalkyitsik,AK,Chalkyitsik
@@ -988,7 +988,7 @@
 11024,Ciudad Juarez,Mexico,Abraham Gonzalez International
 11025,Jeju,South Korea,Jeju International
 11026,Clay Center,KS,Clay Center Municipal
-11027,Clarksburg/Fairmont,WV,North Central West Virginia
+11027,Clarksburg Fairmont,WV,North Central West Virginia
 11028,Crooked Creek,AK,Crooked Creek
 11029,Clear Lake,CA,Pearce Field
 11030,Chongqing,China,Jiangbei
@@ -1002,15 +1002,15 @@
 11038,Comilla,Bangladesh,Comilla
 11039,Castlebar,Ireland,Castlebar
 11040,Clear Lake City,TX,Clear Lake Metroport
-11041,Carlsbad,CA,McClellan-Palomar
-11042,Cleveland,OH,Cleveland-Hopkins International
+11041,Carlsbad,CA,McClellan Palomar
+11042,Cleveland,OH,Cleveland Hopkins International
 11043,Clear,AK,Clear Mews
 11044,Coalinga,CA,New Coalinga Municipal
 11045,Coolah,Australia,Coolah
 11046,Clintonville,WI,Clintonville Municipal
-11047,Cluj-Napoca,Romania,Avram Iancu
+11047,Cluj Napoca,Romania,Avram Iancu
 11048,Clinton,OK,Clinton Regional
-11049,College Station/Bryan,TX,Easterwood Field
+11049,College Station Bryan,TX,Easterwood Field
 11050,Port Angeles,WA,William R. Fairchild International
 11051,Carolina,Brazil,Carolina
 11052,Cali,Colombia,Alfonso Bonilla Aragon International
@@ -1028,7 +1028,7 @@
 11064,Chambery,France,Chambery Aix Les Bains
 11065,Corumba,Brazil,Corumba International
 11066,Columbus,OH,John Glenn Columbus International
-11067,Champaign/Urbana,IL,University of Illinois/Willard
+11067,Champaign Urbana,IL,University of Illinois Willard
 11068,Chi Mei,Taiwan,Chi Mei
 11069,Carmelita,Guatemala,Carmelita
 11070,Casablanca,Morocco,Mohammed V International
@@ -1037,7 +1037,7 @@
 11073,Kundiawa,Papua New Guinea,Chimbu
 11074,Coromandel,New Zealand,Coromandel
 11075,Camaguey,Cuba,Ignacio Agramonte International
-11076,Hancock/Houghton,MI,Houghton County Memorial
+11076,Hancock Houghton,MI,Houghton County Memorial
 11077,Cananea,Mexico,Cananea
 11078,Coonamble,Australia,Coonamble
 11079,Coconut Island,Australia,Coconut Island
@@ -1059,7 +1059,7 @@
 11095,Columbia,CA,Columbia
 11096,Concordia,Argentina,Comodoro Pierrestegui
 11097,Cody,WY,Yellowstone Regional
-11098,Coeur d'Alene,ID,Coeur d'Alene - Pappy Boyington Field
+11098,Coeur d'Alene,ID,Coeur d'Alene   Pappy Boyington Field
 11099,Cocoa Beach,FL,Patrick AFB
 11100,Condoto,Colombia,Mandinga
 11101,Cooch Behar,India,Cooch Behar
@@ -1071,7 +1071,7 @@
 11107,Cotonou,Benin,Card Bernardin Gadin de Cadjehoun International
 11108,Cordoba,Argentina,Ambrosio L. V. Taravella
 11109,Colorado Springs,CO,City of Colorado Springs Municipal
-11110,Cotulla,TX,Cotulla-La Salle County
+11110,Cotulla,TX,Cotulla La Salle County
 11111,Columbia,MO,Columbia Regional
 11112,Coolawanyah,Australia,Coolawanyah
 11113,Cape Palmas,Liberia,Cape Palmas
@@ -1083,14 +1083,14 @@
 11119,Cape Rodney,Papua New Guinea,Cape Rodney
 11120,Copiapo,Chile,Chamonate
 11121,Campinas,Brazil,Viracopos International
-11122,Casper,WY,Casper/Natrona County International
-11123,St. Louis,MO,Bi-State Parks
+11122,Casper,WY,Casper Natrona County International
+11123,St. Louis,MO,Bi State Parks
 11124,Cape Town,South Africa,Cape Town International
 11125,Campina Grande,Brazil,Presidente Joao Suassuna
 11126,Culebra,PR,Benjamin Rivera Noriega
 11127,Calais,France,Calais Dunkerque
-11128,Carbondale,CO,Glen-Aspen
-11130,Cheraw,SC,Cheraw Municipal/Lynch Bellinger Field
+11128,Carbondale,CO,Glen Aspen
+11130,Cheraw,SC,Cheraw Municipal Lynch Bellinger Field
 11131,Craiova,Romania,Craiova
 11132,Collarenebri,Australia,Collarenebri
 11133,Cartago,Colombia,Cartago
@@ -1103,10 +1103,10 @@
 11140,Corpus Christi,TX,Corpus Christi International
 11141,Caravelas,Brazil,Caravelas
 11142,Ceres,Argentina,Ceres
-11143,Corsicana,TX,C David Campbell Field-Corsicana Municipal
+11143,Corsicana,TX,C David Campbell Field Corsicana Municipal
 11144,Carriacou,Grenada,Lauriston
 11145,Crotone,Italy,Crotone
-11146,Charleston/Dunbar,WV,Yeager
+11146,Charleston Dunbar,WV,Yeager
 11147,Corinth,MS,Roscoe Turner
 11148,Cresswell Downs,Australia,Cresswell Downs
 11149,Crested Butte,CO,Buckhorn Ranch
@@ -1119,9 +1119,9 @@
 11156,Cassilandia,Brazil,Cassilandia
 11157,Castaway,Fiji,Castaway
 11158,Cape Sabine,AK,Cape Sabine
-11159,Crossville,TN,Crossville Memorial-Whitson Field
+11159,Crossville,TN,Crossville Memorial Whitson Field
 11160,Changsha,China,Huanghua
-11161,Catania,Italy,Catania-Fontanarossa
+11161,Catania,Italy,Catania Fontanarossa
 11162,Cut Bank,MT,Cut Bank International
 11163,Catamarca,Argentina,Catamarca Aeroclub
 11164,Cartagena,Colombia,Rafael Nunez
@@ -1145,14 +1145,14 @@
 11183,Carupano,Venezuela,General Jose Francisco Bermudez
 11184,Coen,Australia,Coen
 11185,Willemstad,Curacao,Hato
-11186,Cutral-Co,Argentina,Cutral-Co
+11186,Cutral Co,Argentina,Cutral Co
 11187,Chihuahua,Mexico,General Roberto Fierro Villalobos International
 11188,Cube Cove,AK,Cube Cove
 11189,Cue,Australia,Cue
 11190,Cusco,Peru,Teniente Alejandro Velasco Astete International
-11191,Pittsburgh,PA,Civic Arena H/P
+11191,Pittsburgh,PA,Civic Arena H P
 11192,Courchevel,France,Courchevel
-11193,Cincinnati,OH,Cincinnati/Northern Kentucky International
+11193,Cincinnati,OH,Cincinnati Northern Kentucky International
 11194,Cuernavaca,Mexico,General Mariano Matamoros
 11195,Cape Vogel,Papua New Guinea,Cape Vogel
 11196,Ciudad Victoria,Mexico,General Pedro Jose Mendez International
@@ -1188,7 +1188,7 @@
 11230,Chatham,AK,Chatham
 11231,Calbayog,Philippines,Calbayog
 11232,Colonia,Uruguay,Laguna de Los Patos International
-11233,Cheyenne,WY,Cheyenne Regional/Jerry Olson Field
+11233,Cheyenne,WY,Cheyenne Regional Jerry Olson Field
 11234,Cape Yakataga,AK,Yakataga
 11235,Cauayan,Philippines,Cauayan
 11236,Chichen Itza,Mexico,Chichen Itza International
@@ -1197,7 +1197,7 @@
 11240,Coro,Venezuela,Jose Leonardo Chirino
 11241,Cape Romanzof,AK,Cape Romanzof LRRS
 11242,Corozal,Belize,Ranchito
-11243,Constantine,Algeria,Constantine/Ain El Bey
+11243,Constantine,Algeria,Constantine Ain El Bey
 11244,Cozumel,Mexico,Cozumel International
 11245,Chisana,AK,Chisana
 11246,Chistochina,AK,Chistochina
@@ -1211,7 +1211,7 @@
 11254,Danang,Vietnam,Danang International
 11255,Daet,Philippines,Daet
 11256,Daup,Papua New Guinea,Daup
-11257,Daggett,CA,Barstow/Daggett
+11257,Daggett,CA,Barstow Daggett
 11258,Dakhla Oasis,Egypt,Dakhla
 11259,Dallas,TX,Dallas Love Field
 11260,Damascus,Syria,Damascus International
@@ -1221,7 +1221,7 @@
 11264,Daru,Papua New Guinea,Daru
 11265,David,Panama,Enrique Malek International
 11266,Daxian,China,Daxian
-11267,Dayton,OH,James M Cox/Dayton International
+11267,Dayton,OH,James M Cox Dayton International
 11269,Dabaa City,Egypt,Al Alamain International
 11271,Debra Marcos,Ethiopia,Debre Marcos
 11272,Dublin,GA,W H Bud Barron
@@ -1247,9 +1247,9 @@
 11292,Denver,CO,Denver International
 11294,Desroches,Seychelles,Desroches
 11295,Detroit,MI,Coleman A. Young Municipal
-11296,Deir Ezzor,Syria,Al Jafrah/Deir Ezzor
+11296,Deir Ezzor,Syria,Al Jafrah Deir Ezzor
 11297,Defiance,OH,Defiance Memorial
-11298,Dallas/Fort Worth,TX,Dallas/Fort Worth International
+11298,Dallas Fort Worth,TX,Dallas Fort Worth International
 11299,Danger Bay,AK,Danger Bay
 11301,Durango,Mexico,Durango International
 11302,Dumaguete,Philippines,Dumaguete
@@ -1261,10 +1261,10 @@
 11309,Dalhart,TX,Dalhart Municipal
 11311,Dibrugarh,India,Dibrugarh
 11312,Antsiranana,Madagascar,Arrachart
-11313,Shangri-La,China,Zhongdian
+11313,Shangri La,China,Zhongdian
 11314,Dijon,France,Dijon Longvic
-11315,Dickinson,ND,Dickinson - Theodore Roosevelt Regional
-11316,Dili,Timor-Leste,Presidente Nicolau Lobato International
+11315,Dickinson,ND,Dickinson   Theodore Roosevelt Regional
+11316,Dili,Timor Leste,Presidente Nicolau Lobato International
 11317,Diomede Island,AK,Diomede Heliport
 11318,Dire Dawa,Ethiopia,Aba Tenna Dejazmatch Yilma
 11319,Dolisie,Congo (Brazaville),Dolisie
@@ -1279,7 +1279,7 @@
 11328,Daloa,Cote d'Ivoire,Daloa
 11329,Kolding Vamdrup,Denmark,Kolding Vamdrup
 11330,Dunk Island,Australia,Kyboola
-11331,Dunkirk,NY,Chautauqua County/Dunkirk
+11331,Dunkirk,NY,Chautauqua County Dunkirk
 11332,Dakar,Senegal,Leopold Sedar Senghor International
 11333,Douala,Cameroon,Douala
 11334,Dalian,China,Zhoushuizi
@@ -1290,7 +1290,7 @@
 11339,Dillon,SC,Dillon County
 11340,Dalaman,Turkey,Dalaman
 11341,Dolomi,AK,Dolomi
-11342,The Dalles,OR,Columbia Gorge Regional/The Dalles Municipal
+11342,The Dalles,OR,Columbia Gorge Regional The Dalles Municipal
 11343,Dali City,China,Xiaguan
 11344,Tucson,AZ,Davis Monthan AFB
 11345,Moscow,Russia,Domodedovo
@@ -1301,7 +1301,7 @@
 11352,Dunbar,Australia,Dunbar
 11353,Duncan Canal,AK,Duncan Canal
 11354,Dundee,United Kingdom,Dundee
-11355,Dallas/Fort Worth,TX,Dallas North
+11355,Dallas Fort Worth,TX,Dallas North
 11357,Dnipropetrovsk,Ukraine,Dnipropetrovsk International
 11358,Augusta,GA,Daniel Field
 11359,Dalton,GA,Dalton Municipal
@@ -1334,7 +1334,7 @@
 11388,Alpine,AK,Alpine Airstrip
 11389,Colusa,CA,Colusa County
 11390,Killdeer,ND,Dunn County Weydahl Field
-11391,Fort Drum,NY,Wheeler-Sack AAF
+11391,Fort Drum,NY,Wheeler Sack AAF
 11392,Anchorage,AK,Lake Hood Strip
 11394,New Smyrna Beach,FL,New Smyrna Beach Municipal
 11395,Delhi,LA,Delhi Municipal
@@ -1362,13 +1362,13 @@
 11417,Darwin,Australia,Darwin International
 11418,Finningley,United Kingdom,Doncaster Sheffield
 11419,La Desirade,Guadeloupe,La Desirade
-11420,Dessie,Ethiopia,Dessie/Combolcha
+11420,Dessie,Ethiopia,Dessie Combolcha
 11421,Destin,FL,Destin Executive
 11422,Dera Ismail Khan,Pakistan,D. I. Khan
 11423,Des Moines,IA,Des Moines International
 11424,Delta,UT,Delta Municipal
 11425,Death Valley,CA,Furnace Creek
-11427,Detroit Lakes,MN,Detroit Lakes-Wething Field
+11427,Detroit Lakes,MN,Detroit Lakes Wething Field
 11428,Dortmund,Germany,Dortmund
 11429,Shreveport,LA,Shreveport Downtown
 11430,Denton,TX,Denton Enterprise
@@ -1383,7 +1383,7 @@
 11439,Duck,NC,Pine Island
 11440,Douglas,AZ,Bisbee Douglas International
 11441,DuBois,PA,DuBois Regional
-11442,Duncan/Quamichan Lake,Canada,Duncan
+11442,Duncan Quamichan Lake,Canada,Duncan
 11443,Durban,South Africa,Louis Botha
 11444,Dusseldorf,Germany,Duesseldorf
 11445,Unalaska,AK,Unalaska
@@ -1391,8 +1391,8 @@
 11447,Devils Lake,ND,Devils Lake Regional
 11448,Davenport,IA,Davenport Municipal
 11449,Davao,Philippines,Francisco Bangoy International
-11450,Phoenix,AZ,Phoenix - Deer Valley
-11452,Davis/Woodland/Winters,CA,Yolo County
+11450,Phoenix,AZ,Phoenix   Deer Valley
+11452,Davis Woodland Winters,CA,Yolo County
 11453,Houston,TX,David Wayne Hooks Memorial
 11454,Orlando,FL,Walt Disney World
 11455,Dubai,United Arab Emirates,Dubai International
@@ -1401,7 +1401,7 @@
 11458,Anadyr,Russia,Ugolny
 11459,Abilene,TX,Dyess AFB
 11460,Dushanbe,Tajikistan,Dushanbe
-11461,Dzaoudzi,Mayotte,Dzaoudzi-Pamandzi
+11461,Dzaoudzi,Mayotte,Dzaoudzi Pamandzi
 11462,Durazno,Uruguay,Durazno
 11463,Eagle,AK,Eagle
 11464,Noatak,AK,Eagle Creek Strip
@@ -1412,13 +1412,13 @@
 11470,Wenatchee,WA,Pangborn Memorial
 11471,Eau Claire,WI,Chippewa Valley Regional
 11472,Elba Island,Italy,Marina Di Campo
-11473,Entebbe/Kampala,Uganda,Entebbe International
+11473,Entebbe Kampala,Uganda,Entebbe International
 11474,El Obeid,Sudan,El Obeid
 11475,Esbjerg,Denmark,Esbjerg
 11476,Erbil,Iraq,Erbil International
 11477,St. Etienne,France,Saint Etienne Loire
 11478,East Tawas,MI,Iosco County
-11479,Elizabeth City,NC,Elizabeth City CGAS/Regional
+11479,Elizabeth City,NC,Elizabeth City CGAS Regional
 11480,Ercan,Cyprus,Ercan
 11481,Panama City,FL,Northwest Florida Beaches International
 11482,Newcastle,WY,Mondell Field
@@ -1461,7 +1461,7 @@
 11521,Wedjh,Saudi Arabia,Wedjh
 11522,Eureka,CA,Murray Field
 11523,Elkhart,IN,Elkhart Municipal
-11524,Elkins,WV,Elkins-Randolph County-Jennings Randolph Field
+11524,Elkins,WV,Elkins Randolph County Jennings Randolph Field
 11525,Elko,NV,Elko Regional
 11526,Elizabethtown,KY,Addington Field
 11527,Bessemer,AL,Bessemer
@@ -1474,7 +1474,7 @@
 11534,North Eleuthera,The Bahamas,North Eleuthera
 11535,Elim,AK,Elim
 11536,El Recreo,Colombia,El Recreo
-11537,Elmira/Corning,NY,Elmira/Corning Regional
+11537,Elmira Corning,NY,Elmira Corning Regional
 11538,Ellensburg,WA,Bowers Field
 11540,El Paso,TX,El Paso International
 11541,Gassim,Saudi Arabia,Prince Naif Bin Abdulaziz
@@ -1482,7 +1482,7 @@
 11544,El Tor,Egypt,El Tor
 11545,Elfin Cove,AK,Elfin Cove Seaplane Base
 11546,Ellamar,AK,Ellamar Seaplane Base
-11547,Ely,NV,Ely/Yelland Field
+11547,Ely,NV,Ely Yelland Field
 11548,Derby,United Kingdom,East Midlands
 11549,Emerald,Australia,Emerald
 11550,Emmonak,AK,Emmonak
@@ -1502,7 +1502,7 @@
 11564,Kenosha,WI,Kenosha Regional
 11565,Medellin,Colombia,Olaya Herrera
 11566,Keokuk,IA,Keokuk Municipal
-11567,Ephrata/Moses Lake,WA,Ephrata Municipal
+11567,Ephrata Moses Lake,WA,Ephrata Municipal
 11569,Epinal,France,Epinal Mirecourt
 11570,Epena,Congo (Brazaville),Epena
 11571,Esperance,Australia,Esperance
@@ -1511,12 +1511,12 @@
 11574,Erzincan,Turkey,Erzincan
 11575,Berdyansk,Ukraine,Berdyansk
 11576,Erfurt,Germany,Erfurt Weimar
-11577,Erie,PA,Erie International/Tom Ridge Field
+11577,Erie,PA,Erie International Tom Ridge Field
 11578,Erechim,Brazil,Erechim
 11579,Eirunepe,Brazil,Eirunepe
 11580,Windhoek,Namibia,Eros
 11581,Erdenet,Mongolia,Erdenet
-11582,Kerrville,TX,Kerrville Municipal/Louis Schreiner Field
+11582,Kerrville,TX,Kerrville Municipal Louis Schreiner Field
 11583,Erzurum,Turkey,Erzurum
 11584,Madrid,Spain,Getafe
 11585,Esa'ala,Papua New Guinea,Esa'ala
@@ -1526,14 +1526,14 @@
 11589,Ensenada,Mexico,General Alberto L Salinas Carranza
 11590,Alexandria,LA,Esler Regional
 11591,Esmeraldas,Ecuador,Coronel Carlos Concha Torres
-11592,Easton,MD,Easton/Newnam Field
+11592,Easton,MD,Easton Newnam Field
 11593,Stroudsburg,PA,Stroudsburg Pocono
 11594,El Salvador,Chile,Ricardo Garcia Posada
 11595,Essen,Germany,Essen Muelheim
 11596,Eilat,Israel,Eilat
 11597,Eastland,TX,Eastland Municipal
 11598,Enterprise,AL,Enterprise Municipal
-11599,Metz/Nancy,France,Metz Nancy Lorraine
+11599,Metz Nancy,France,Metz Nancy Lorraine
 11600,Eua,Tonga,Eua
 11601,Eureka,NV,Eureka
 11602,Eufaula,AL,Weedon Field
@@ -1546,11 +1546,11 @@
 11609,Eveleth,MN,Eveleth Virginia Municipal
 11610,Yerevan,Armenia,Zvartnots
 11612,Evansville,IN,Evansville Regional
-11613,Evanston,WY,Evanston-Uinta County Burns Field
+11613,Evanston,WY,Evanston Uinta County Burns Field
 11614,Evreux,France,Evreux Fauville
-11615,New Bedford/Fall River,MA,New Bedford Regional
+11615,New Bedford Fall River,MA,New Bedford Regional
 11616,Newton,KS,Newton City County
-11617,New Bern/Morehead/Beaufort,NC,Coastal Carolina Regional
+11617,New Bern Morehead Beaufort,NC,Coastal Carolina Regional
 11618,Newark,NJ,Newark Liberty International
 11619,Excursion Inlet,AK,Excursion Inlet Seaplane Base
 11620,Exeter,United Kingdom,Exeter
@@ -1560,7 +1560,7 @@
 11624,Key West,FL,Key West International
 11625,Ezeiza,Argentina,Ministro Pistarini
 11626,Elazig,Turkey,Elazig
-11627,Murrieta/Temecula,CA,French Valley
+11627,Murrieta Temecula,CA,French Valley
 11628,Farnborough,United Kingdom,Farnborough
 11629,Sorvagur,Denmark,Vagar
 11630,Fairbanks,AK,Fairbanks International
@@ -1574,7 +1574,7 @@
 11638,Fresno,CA,Fresno Yosemite International
 11639,Fairmount Island,AK,Fairmount Island
 11640,Fakarava,French Polynesia,Fakarava
-11641,Fayetteville,NC,Fayetteville Regional/Grannis Field
+11641,Fayetteville,NC,Fayetteville Regional Grannis Field
 11642,Fort Bragg,NC,Simmons AAF
 11643,Fairbanks,AK,Ladd AAF
 11644,Lubumbashi,Congo (Kinshasa),Lubumbashi International
@@ -1600,23 +1600,23 @@
 11664,Cheyenne,WY,Francis E. Warren AFB Heliport
 11665,Fez,Morocco,Saiss International
 11666,Fairford,United Kingdom,RAF Fairford
-11667,Fergus Falls,MN,Fergus Falls Municipal-Einar Mickelson Field
-11668,Dayton,OH,Wright-Patterson AFB
+11667,Fergus Falls,MN,Fergus Falls Municipal Einar Mickelson Field
+11668,Dayton,OH,Wright Patterson AFB
 11669,Frankfort,KY,Capital City
 11670,Fderik,Mauritania,Fderik
 11671,Apia,Samoa,Fagali I
-11673,Fort Huachuca,AZ,Sierra Vista Municipal-Libby AAF
+11673,Fort Huachuca,AZ,Sierra Vista Municipal Libby AAF
 11674,Fire Cove,AK,Fire Cove
 11675,Fishers Island,NY,Elizabeth Field
 11676,Kinshasa,Congo (Kinshasa),N'Djili International
 11677,Fillmore,UT,Fillmore Municipal
 11678,Finschhafen,Papua New Guinea,Finschhafen
 11679,Fitzroy Crossing,Australia,Fitzroy Crossing
-11680,Al-Fujairah,United Arab Emirates,Fujairah International
-11681,Karlsruhe/Baden-Baden,Germany,Karlsruhe/Baden-Baden
+11680,Al Fujairah,United Arab Emirates,Fujairah International
+11681,Karlsruhe Baden Baden,Germany,Karlsruhe Baden Baden
 11682,Kisangani,Congo (Kinshasa),Bangoka International
 11683,Fukui,Japan,Fukui
-11684,Franklin/Oil City,PA,Venango Regional
+11684,Franklin Oil City,PA,Venango Regional
 11685,Fukushima,Japan,Fukushima
 11686,Zephyrhills,FL,Zephyrhills Municipal
 11687,Valkaria,FL,Valkaria
@@ -1629,7 +1629,7 @@
 11694,Flensburg,Germany,Flensburg Schaeferhaus
 11695,Flagstaff,AZ,Flagstaff Pulliam
 11696,Falls Bay,AK,Falls Bay
-11697,Fort Lauderdale,FL,Fort Lauderdale-Hollywood International
+11697,Fort Lauderdale,FL,Fort Lauderdale Hollywood International
 11698,Florianopolis,Brazil,Hercilio Luz International
 11699,Florence,SC,Florence Regional
 11700,Florence,Italy,Firenze
@@ -1651,7 +1651,7 @@
 11716,Funchal,Portugal,Madeira
 11717,Nimes,France,Nimes Garons
 11718,Pyongyang,North Korea,Pyongyang International
-11719,Fort Collins/Loveland,CO,Northern Colorado Regional
+11719,Fort Collins Loveland,CO,Northern Colorado Regional
 11720,Funter Bay Alaska,AK,Funter Bay
 11721,Flint,MI,Bishop International
 11723,Fort Bragg,CA,Fort Bragg
@@ -1663,7 +1663,7 @@
 11730,Fortaleza,Brazil,Pinto Martins International
 11731,Freeport,The Bahamas,Grand Bahama International
 11732,Fort Pierce,FL,Treasure Coast International
-11733,Perry,FL,Perry-Foley
+11733,Perry,FL,Perry Foley
 11734,Patching Lake,AK,Patching Lake
 11735,Ventura,CA,San Nicolas Island NOLF
 11736,Kodiak,AK,Lilly Lake
@@ -1695,7 +1695,7 @@
 11766,Fairmont,MN,Fairmont Municipal
 11767,Floro,Norway,Floro
 11768,Fresh Water Bay,AK,Fresh Water Bay
-11769,Front Royal,VA,Front Royal-Warren County
+11769,Front Royal,VA,Front Royal Warren County
 11770,Flores,Guatemala,Flores
 11771,Bishkek,Kyrgyzstan,Manas
 11772,Francistown,Botswana,Francistown
@@ -1715,8 +1715,8 @@
 11786,Fortuna Ledge,AK,Fortuna Ledge
 11787,Fort Dauphin,Madagascar,Marillac
 11788,Masvingo,Zimbabwe,Masvingo International
-11789,Dallas/Fort Worth,TX,Fort Worth Meacham International
-11790,Atlanta,GA,Fulton County-Brown Field
+11789,Dallas Fort Worth,TX,Fort Worth Meacham International
+11790,Atlanta,GA,Fulton County Brown Field
 11791,Fuerteventura,Spain,Fuerteventura
 11792,Fukue,Japan,Fukue
 11793,Fukuoka,Japan,Fukuoka
@@ -1738,7 +1738,7 @@
 11812,Quincy,CA,Gansner Field
 11813,Donlin Creek Mine,AK,Donlin Creek Mine
 11814,Three Forks,MT,Three Forks
-11815,Rexburg,ID,Rexburg-Madison County
+11815,Rexburg,ID,Rexburg Madison County
 11816,Latacunga,Ecuador,Latacunga
 11817,Las Palmas,Peru,Las Palmas
 11818,Kernville,CA,Kern Valley
@@ -1747,7 +1747,7 @@
 11821,Unuk River,AK,Unuk River
 11822,Deadhorse,AK,Inigok
 11823,Fort Wayne,IN,Fort Wayne International
-11824,Fort Worth,TX,Fort Worth NAS JRB/Carswell Field
+11824,Fort Worth,TX,Fort Worth NAS JRB Carswell Field
 11825,Farewell,AK,Farewell
 11826,Fort Worth,TX,Fort Worth Spinks
 11827,Fort Lauderdale,FL,Fort Lauderdale Executive
@@ -1755,12 +1755,12 @@
 11829,Nova Freixo,Mozambique,Nova Freixo
 11830,Clinton,IN,Frankfort Municipal
 11831,Forest City,IA,Forest City Municipal
-11832,Faya-Largeau,Chad,Faya-Largeau
+11832,Faya Largeau,Chad,Faya Largeau
 11833,Fort Yukon,AK,Fort Yukon
 11834,Fayetteville,AR,Drake Field
 11835,Filton,United Kingdom,Bristol Filton
 11836,Lafayette,GA,Barwick Lafayette
-11837,Carrollton,GA,West Georgia Regional - O V Gray Field
+11837,Carrollton,GA,West Georgia Regional   O V Gray Field
 11838,Atlanta,GA,Newnan Coweta County
 11839,Gracias,Honduras,Gracias
 11840,Gadsden,AL,Northeast Alabama Regional
@@ -1831,7 +1831,7 @@
 11905,Longview,TX,East Texas Regional
 11906,Gagnoa,Cote d'Ivoire,Gagnoa
 11907,Moss Town,The Bahamas,Exuma International
-11908,Glasgow,MT,Wokal Field/Glasgow International
+11908,Glasgow,MT,Wokal Field Glasgow International
 11909,Ghardaia,Algeria,Noumerat Moufdi Zakaria
 11910,Governors Harbour,The Bahamas,Governors Harbour
 11911,Great Harbour Cay,The Bahamas,Great Harbour Cay
@@ -1843,7 +1843,7 @@
 11917,Gisborne,New Zealand,Gisborne
 11918,Gizan,Saudi Arabia,Gizan Saudia Arabia
 11919,Guanaja Island,Honduras,Guanaja
-11920,Guajara-Mirim,Brazil,Guajara Mirim
+11920,Guajara Mirim,Brazil,Guajara Mirim
 11921,Grand Junction,CO,Grand Junction Regional
 11922,Goroka,Papua New Guinea,Goroka
 11923,Great Keppel Island,Australia,Bonnie Doon
@@ -1858,7 +1858,7 @@
 11933,Galcaio,Somalia,Gaalkacyo
 11934,Glenormiston,Australia,Glenormiston
 11935,Goulimime,Morocco,Goulimime
-11936,Gloucester/Cheltenham,United Kingdom,Gloucestershire
+11936,Gloucester Cheltenham,United Kingdom,Gloucestershire
 11937,Glennallen,AK,Glennallen
 11938,Gaylord,MI,Gaylord Regional
 11939,Galveston,TX,Scholes International at Galveston
@@ -1876,14 +1876,14 @@
 11951,General Roca,Argentina,General Roca
 11952,Goodnews Bay,AK,Goodnews
 11953,Gainesville,FL,Gainesville Regional
-11954,Genoa,Italy,Genova/Sestri
+11954,Genoa,Italy,Genova Sestri
 11955,Goba,Ethiopia,Goba
 11956,Nuuk,Greenland,Nuuk
 11957,Goa,India,Goa
 11958,Nizhniy Novgorod,Russia,Nizhny Novgorod
 11959,Gold Beach,OR,Gold Beach Municipal
 11960,Goma,Congo (Kinshasa),Goma
-11961,New London/Groton,CT,Groton-New London
+11961,New London Groton,CT,Groton New London
 11962,Goondiwindi,Australia,Goondiwindi
 11963,Gorakhpur,India,Gorakhpur
 11964,Gore,Ethiopia,Gore
@@ -1895,8 +1895,8 @@
 11970,Guapi,Colombia,Guapi
 11971,Grand Prairie,TX,Grand Prairie Municipal
 11972,Galapagos Islands,Ecuador,Baltra
-11973,Gulfport/Biloxi,MS,Gulfport-Biloxi International
-11974,Grand Rapids,MN,Grand Rapids/Itasca County-Gordon Newstrom Field
+11973,Gulfport Biloxi,MS,Gulfport Biloxi International
+11974,Grand Rapids,MN,Grand Rapids Itasca County Gordon Newstrom Field
 11975,Galion,OH,Horning
 11976,Gamarra,Colombia,Germania
 11977,Green Bay,WI,Green Bay Austin Straubel International
@@ -1917,10 +1917,10 @@
 11992,Goldsboro,NC,Seymour Johnson AFB
 11993,Gothenburg,Sweden,Gothenburg City
 11994,Goshen,IN,Goshen Municipal
-11995,Greensboro/High Point,NC,Piedmont Triad International
-11996,Greer,SC,Greenville-Spartanburg International
+11995,Greensboro High Point,NC,Piedmont Triad International
+11996,Greer,SC,Greenville Spartanburg International
 11997,Gustavus,AK,Gustavus
-11999,Dallas/Fort Worth,TX,Greater Southwest International
+11999,Dallas Fort Worth,TX,Greater Southwest International
 12000,San Jose,Guatemala,San Jose
 12001,Genting,Malaysia,Genting
 12002,Groote Island,Australia,Groote Eylandt
@@ -1933,7 +1933,7 @@
 12009,Zlin,Czech Republic,Holesov
 12010,Guatemala City,Guatemala,La Aurora International
 12011,Guerrero Negro,Mexico,Guerrero Negro
-12012,Gunnison,CO,Gunnison-Crested Butte Regional
+12012,Gunnison,CO,Gunnison Crested Butte Regional
 12013,Goundam,Mali,Goundam
 12014,Gunnedah,Australia,Gunnedah
 12015,Guiria,Venezuela,Almirante Cristobal Colon
@@ -1953,15 +1953,15 @@
 12029,Batavia,NY,Genesee County
 12030,Governador Valadares,Brazil,Governador Valadares
 12031,Greenville,TX,Majors
-12032,Grandview,MO,Richards/Gebaur AFB
+12032,Grandview,MO,Richards Gebaur AFB
 12033,Gavle,Sweden,Gavle
 12034,Gwadar,Pakistan,Gwadar International
 12035,Gweru,Zimbabwe,Gweru Thornhill
 12038,Gwalior,India,Gwalior
-12039,Greenwood,MS,Greenwood/Leflore
-12040,Gwinner,ND,Gwinner-Roger Melroe Field
+12039,Greenwood,MS,Greenwood Leflore
+12040,Gwinner,ND,Gwinner Roger Melroe Field
 12041,Glenwood Springs,CO,Glenwood Springs Municipal
-12042,Westerland-Sylt,Germany,Sylt
+12042,Westerland Sylt,Germany,Sylt
 12044,Galway,Ireland,Carnmore
 12045,Sayun,Yemen,Sayun International
 12046,Mildenhall,United Kingdom,Mildenhall NAF
@@ -1973,7 +1973,7 @@
 12052,Guaymas,Mexico,General Jose Maria Yanez International
 12053,Goiania,Brazil,Santa Genoveva
 12054,Goodyear,AZ,Phoenix Goodyear
-12055,Gary,IN,Gary/Chicago International
+12055,Gary,IN,Gary Chicago International
 12056,Gizo,Solomon Islands,Gizo
 12057,Gaziantep,Turkey,Gaziantep
 12058,Hamilton,AL,Marion County
@@ -2018,13 +2018,13 @@
 12097,Herat,Afghanistan,Herat
 12098,Herendeen,AK,Herendeen Bay
 12099,Heho,Burma,Heho
-12100,Heide/Busum,Germany,Heide Buesum
+12100,Heide Busum,Germany,Heide Buesum
 12101,Helsinki,Finland,Helsinki Vantaa
 12102,Heraklion,Greece,Nikos Kazantzakis
 12103,Hermiston,OR,Hermiston Municipal
 12104,Hohhot,China,Baita
 12105,Santo Domingo,Dominican Republic,Herrera International
-12106,Natchez,MS,Hardy-Anders Field Natchez-Adams County
+12106,Natchez,MS,Hardy Anders Field Natchez Adams County
 12107,Haifa,Israel,Haifa
 12108,Hartford,CT,Hartford Brainard
 12109,Hefei,China,Luogang
@@ -2037,7 +2037,7 @@
 12116,Dune,Germany,Helgoland Duene
 12117,Mae Hong Son,Thailand,Mae Hong Son
 12118,Korhogo,Cote d'Ivoire,Korhogo
-12119,Hagerstown,MD,Hagerstown Regional-Richard A. Henson Field
+12119,Hagerstown,MD,Hagerstown Regional Richard A. Henson Field
 12120,Freetown,Sierra Leone,Hastings
 12121,Mount Hagen,Papua New Guinea,Mount Hagen
 12122,Hogatza,AK,Hogatza
@@ -2045,7 +2045,7 @@
 12124,Hilton Head,SC,Hilton Head
 12125,Hahn,Germany,Frankfurt Hahn
 12126,Hong Kong,Hong Kong,Kai Tak Heliport
-12127,Hawthorne,CA,Jack Northrop Field/Hawthorne Municipal
+12127,Hawthorne,CA,Jack Northrop Field Hawthorne Municipal
 12128,Hiawatha,KS,Hiawatha Municipal
 12129,Hibbing,MN,Range Regional
 12130,Whitefield,NH,Mount Washington Regional
@@ -2083,11 +2083,11 @@
 12163,Alamogordo,NM,Holloman AFB
 12164,Hermosillo,Mexico,General Ignacio P. Garcia International
 12165,Homeshore,AK,Homeshore
-12166,Hemet,CA,Hemet-Ryan
+12166,Hemet,CA,Hemet Ryan
 12167,Hanamaki,Japan,Hanamaki
 12168,Hatteras,NC,Billy Mitchell
 12169,Tokyo,Japan,Tokyo International
-12170,Hienghene,New Caledonia,Hienghene/Henri Martinet
+12170,Hienghene,New Caledonia,Hienghene Henri Martinet
 12171,Hoonah,AK,Hoonah
 12173,Honolulu,HI,Daniel K Inouye International
 12174,Hana,HI,Hana
@@ -2106,7 +2106,7 @@
 12189,Horta,Portugal,Horta
 12190,Hot Springs,AR,Memorial Field
 12191,Houston,TX,William P Hobby
-12192,Orsta/Volda,Norway,Hovden
+12192,Orsta Volda,Norway,Hovden
 12193,Balboa,Panama,Panama Pacifico International
 12194,Lifuka,Tonga,Salote Pilolevu
 12195,Hooper Bay,AK,Hooper Bay
@@ -2119,9 +2119,9 @@
 12203,Harare,Zimbabwe,Robert Gabriel Mugabe International
 12204,Hurghada,Egypt,Hurghada International
 12205,Kharkov,Ukraine,Kharkov
-12206,Harlingen/San Benito,TX,Valley International
+12206,Harlingen San Benito,TX,Valley International
 12207,Harrison,AR,Boone County
-12209,Harrogate,United Kingdom,Linton-On-Ouse
+12209,Harrogate,United Kingdom,Linton On Ouse
 12210,Shaoguan,China,Shaoguan
 12211,Las Vegas,NV,Henderson Executive
 12212,Hastings,NE,Hastings Municipal
@@ -2129,13 +2129,13 @@
 12214,Huslia,AK,Huslia
 12215,Hot Springs,VA,Ingalls Field
 12216,Homestead,FL,Homestead ARB
-12217,Huntsville,AL,Huntsville International-Carl T Jones Field
+12217,Huntsville,AL,Huntsville International Carl T Jones Field
 12218,Chita,Russia,Kadala
 12219,Hatfield,United Kingdom,Hatfield
 12220,Hawthorne,NV,Hawthorne Industrial
 12221,Hamilton Island,Australia,Hamilton Island
 12222,East Hampton,NY,East Hampton
-12223,Ashland,WV,Tri-State/Milton J. Ferguson Field
+12223,Ashland,WV,Tri State Milton J. Ferguson Field
 12224,Hato Corozal,Colombia,Hato Corozal
 12225,Huntsville,AL,Redstone AAF
 12226,Humacao,PR,Dr Hermenegildo Ortiz Quinones
@@ -2151,17 +2151,17 @@
 12236,Hutchinson,KS,Hutchinson Regional
 12237,Huanuco,Peru,Alferez FAP David Figueroa Fernandini
 12238,Hudiksvall,Sweden,Hudiksvall
-12239,Santa Cruz/Huatulco,Mexico,Bahias de Huatulco International
+12239,Santa Cruz Huatulco,Mexico,Bahias de Huatulco International
 12240,Humberside,United Kingdom,Humberside
 12241,Analalava,Madagascar,Analalava
 12242,Hervey Bay,Australia,Hervey Bay
-12243,Hopkinsville,KY,Hopkinsville-Christian County
+12243,Hopkinsville,KY,Hopkinsville Christian County
 12244,New Haven,CT,Tweed New Haven
-12245,Havre,MT,Havre City-County
+12245,Havre,MT,Havre City County
 12246,Hartsville,SC,Hartsville Regional
 12247,Hayward,CA,Hayward Executive
 12248,Hawk Inlet,AK,Hawk Inlet
-12250,Hyannis,MA,Barnstable Municipal-Boardman/Polando Field
+12250,Hyannis,MA,Barnstable Municipal Boardman Polando Field
 12251,Hyderabad,India,Hyderabad
 12252,Hydaburg,AK,Hydaburg Seaplane Base
 12253,Hollis,AK,Hollis Seaplane Base
@@ -2176,7 +2176,7 @@
 12263,Wichita,KS,McConnell AFB
 12264,Washington,DC,Washington Dulles International
 12265,Niagara Falls,NY,Niagara Falls International
-12266,Houston,TX,George Bush Intercontinental/Houston
+12266,Houston,TX,George Bush Intercontinental Houston
 12267,In Amenas,Algeria,In Amenas
 12268,Kiana,AK,Bob Baker Memorial
 12269,Yaroslavl,Russia,Yaroslavl
@@ -2201,7 +2201,7 @@
 12288,Isafjordur,Iceland,Isafjordur
 12289,Innisfail,Australia,Innisfail
 12290,Isfahan,Iran,Shahid Beheshti International
-12291,Ivano-Frankovska,Ukraine,Ivano - Frankovska International
+12291,Ivano Frankovska,Ukraine,Ivano   Frankovska International
 12293,Inagua,The Bahamas,Inagua
 12294,Igiugig,AK,Igiugig
 12295,Ingham,Australia,Ingham
@@ -2214,7 +2214,7 @@
 12303,Chapel Hill,NC,Horace Williams
 12304,Ihu,Papua New Guinea,Ihu
 12305,Rantoul,IL,Rantoul National Aviation Center
-12306,Chicago/Romeoville,IL,Lewis University
+12306,Chicago Romeoville,IL,Lewis University
 12307,De Kalb,IL,De Kalb Taylor Municipal
 12308,Lincoln,IL,Logan County
 12309,Ijui,Brazil,Ijui
@@ -2243,7 +2243,7 @@
 12332,Imperial,NE,Imperial Municipal
 12333,Immokalee,FL,Immokalee Regional
 12334,Imperatriz,Brazil,Imperatriz
-12335,Iron Mountain/Kingsfd,MI,Ford
+12335,Iron Mountain Kingsfd,MI,Ford
 12336,Auburn,IN,De Kalb County
 12337,Indianapolis,IN,Indianapolis Executive
 12338,Yinchuan,China,Hedong
@@ -2251,19 +2251,19 @@
 12340,In Guezzam,Algeria,In Guezzam
 12341,Lago Argentino,Argentina,Lago Argentino
 12342,Inhambane,Mozambique,Inhambane
-12343,International Falls,MN,Falls International Einarson Field
+12343,International Falls,MN,Falls International
 12344,Innsbruck,Austria,Innsbruck
 12345,Inongo,Congo (Kinshasa),Inongo
 12347,Indian Springs,NV,Creech AFB
-12348,Winston-Salem,NC,Smith Reynolds
+12348,Winston Salem,NC,Smith Reynolds
 12349,Nauru,Nauru,Nauru Island
 12350,Inverness,United Kingdom,Inverness
-12351,Winslow,AZ,Winslow-Lindbergh Regional
+12351,Winslow,AZ,Winslow Lindbergh Regional
 12352,Ioannina,Greece,Ioannina
 12353,Isle of Man,United Kingdom,Isle of Man
 12354,Impfondo,Congo (Brazaville),Impfondo
 12355,Inishmore,Ireland,Inishmore
-12356,Ilheus,Brazil,Bahia-Jorge Amado
+12356,Ilheus,Brazil,Bahia Jorge Amado
 12357,Ile Ouen,New Caledonia,Ile Ouen
 12358,Iowa City,IA,Iowa City Municipal
 12359,Easter Island,Chile,Mataveri International
@@ -2304,20 +2304,20 @@
 12394,Wiscasset,ME,Wiscasset
 12395,Istanbul,Turkey,Ataturk
 12396,Wisconsin Rapids,WI,Alexander Field South Wood County
-12397,Ithaca/Cortland,NY,Ithaca Tompkins Regional
+12397,Ithaca Cortland,NY,Ithaca Tompkins Regional
 12400,Osaka,Japan,Osaka International
 12401,Itabuna,Brazil,Itabuna
 12402,Hilo,HI,Hilo International
 12403,Itaqui,Brazil,Itaqui
 12404,Niue Island,Niue,Niue International
 12405,Inus,Papua New Guinea,Inus
-12406,Ambanja,Madagascar,Ambanja/Ambalavelona
+12406,Ambanja,Madagascar,Ambanja Ambalavelona
 12407,Invercargill,New Zealand,Invercargill
 12408,Berane,Montenegro,Berane
 12409,Ivalo,Finland,Ivalo
 12410,Inverell,Australia,Inverell
 12411,Ivanovo,Russia,Ivanovo
-12412,Ironwood,MI,Gogebic-Iron County
+12412,Ironwood,MI,Gogebic Iron County
 12413,Iwami,Japan,Iwami
 12414,Iwoto,Japan,Iwoto
 12415,Houston,TX,West Houston
@@ -2328,7 +2328,7 @@
 12420,Mangalore,India,Mangalore International
 12421,Belgaum,India,Belgaum
 12422,Kailashahar,India,Kailashahar
-12423,Lilabari,India,North Lakhimpur/Lilabari
+12423,Lilabari,India,North Lakhimpur Lilabari
 12424,Jammu,India,Jammu
 12425,Keshod,India,Keshod
 12426,Leh,India,Leh
@@ -2352,7 +2352,7 @@
 12445,Atlanta,GA,Perimeter Mall Helipad
 12446,Jacmel,Haiti,Jacmel
 12447,Jalapa,Mexico,El Lencero
-12448,Jackson/Vicksburg,MS,Jackson Medgar Wiley Evers International
+12448,Jackson Vicksburg,MS,Jackson Medgar Wiley Evers International
 12449,Atlanta,GA,Beaver Ruin
 12450,Jakobshavn,Greenland,Ilulissat
 12451,Jacksonville,FL,Jacksonville International
@@ -2366,8 +2366,8 @@
 12459,Christianshab,Greenland,Christianshab
 12460,Olathe,KS,New Century Aircenter
 12461,Julia Creek,Australia,Julia Creek
-12462,John Day,OR,Grant County Regional/Ogilvie Field
-12463,Dallas/Fort Worth,TX,Downtown Heliport
+12462,John Day,OR,Grant County Regional Ogilvie Field
+12463,Dallas Fort Worth,TX,Downtown Heliport
 12464,Juiz de Fora,Brazil,Juiz
 12465,Seattle,WA,Edgewater Inn Helipad Sea Wash
 12466,Jodhpur,India,Jodhpur
@@ -2385,7 +2385,7 @@
 12481,Frederikshab,Greenland,Frederikshaab
 12482,Jamnagar,India,Jamnagar
 12483,Grand Canyon,AZ,Grand Canyon Heliport
-12484,Williamsburg,VA,Williamsburg-Jamestown
+12484,Williamsburg,VA,Williamsburg Jamestown
 12485,Atlanta,GA,Galleria
 12486,Houston,TX,Greenway Plaza Heliport
 12487,Houston,TX,Transco Tower Galleria Heliport
@@ -2394,7 +2394,7 @@
 12491,Helsingborg,Sweden,Helsingborg Heliport
 12492,Kapalua,HI,Kapalua
 12493,Sisimiut,Greenland,Sisimiut
-12494,Jamestown,NY,Chautauqua County/Jamestown
+12494,Jamestown,NY,Chautauqua County Jamestown
 12495,Cambridge,MA,Cambridge
 12496,Djibouti,Djibouti,Djibouti Ambouli
 12497,City of Industry,CA,Civic Financial Center Heliport
@@ -2443,7 +2443,7 @@
 12543,Houston,TX,Park Ten Helipad
 12544,CONCORD,NC,CONCORD REGIONAL
 12545,New York,NY,West 30th Street Heliport
-12546,New York,NY,Downtown Manhattan/Wall Street Heliport
+12546,New York,NY,Downtown Manhattan Wall Street Heliport
 12547,Rochester,MN,Appache Heliport
 12548,New York,NY,East 60th Street Heliport
 12549,Kapolei,HI,Kalaeloa
@@ -2456,7 +2456,7 @@
 12556,St. Cloud,MN,Crossroads Heliport
 12557,Sodertalje,Sweden,Sodertalje Heliport
 12558,Jessore,Bangladesh,Jessore
-12559,Johnstown,PA,John Murtha Johnstown-Cambria County
+12559,Johnstown,PA,John Murtha Johnstown Cambria County
 12561,Syros Island,Greece,Dimitrios Vikelas
 12563,Santorini,Greece,Santorini
 12564,Juba,South Sudan,Juba
@@ -2464,10 +2464,10 @@
 12567,Juliaca,Peru,Juliaca
 12568,Jumla,Nepal,Jumla
 12570,Upernavik,Greenland,Upernavik
-12571,Beloit/Janesville,WI,Southern Wisconsin Regional
+12571,Beloit Janesville,WI,Southern Wisconsin Regional
 12573,Houston,TX,Westchase Heliport
 12574,Nashville,TN,John C Tune
-12576,Jackson,MI,Jackson County-Reynolds Field
+12576,Jackson,MI,Jackson County Reynolds Field
 12577,Seattle,WA,Olympic Hotel Helipad Sea Wash
 12578,Jyvaskyla,Finland,Jyvaskyla
 12579,Newton,MS,James H Easom Field
@@ -2491,10 +2491,10 @@
 12599,Bennington,VT,William H. Morse State
 12600,Little Rock,AR,North Little Rock Municipal
 12601,Evergreen,AL,Evergreen Regional Middleton Field
-12602,Angwin,CA,Angwin-Parrett Field
+12602,Angwin,CA,Angwin Parrett Field
 12603,Grangeville,ID,Idaho County
 12604,Taszar,Hungary,Taszar
-12605,Russellville,KY,Russellville-Logan County
+12605,Russellville,KY,Russellville Logan County
 12606,Kasama,Zambia,Kasama
 12607,Kariba,Zimbabwe,Kariba International
 12608,Kameshli,Syria,Kamishly
@@ -2537,10 +2537,10 @@
 12648,Kamphang Saen,Thailand,Kamphang Saen
 12649,Nanwalek,AK,Nanwalek
 12650,Kaedi,Mauritania,Kaedi
-12651,Keflavik/Reykjavik,Iceland,Keflavik International
+12651,Keflavik Reykjavik,Iceland,Keflavik International
 12652,Kenmore,WA,Kenmore Air Harbor
 12653,Ekwok,AK,Ekwok
-12654,Kiel,Germany,Kiel/Holtenau
+12654,Kiel,Germany,Kiel Holtenau
 12655,Kemi,Finland,Kemi Tornio
 12656,Kenema,Sierra Leone,Kenema
 12657,Odienne,Cote d'Ivoire,Odienne IV Coast
@@ -2581,7 +2581,7 @@
 12695,Kisumu,Kenya,Kisumu
 12696,Kithira,Greece,Alexandros Aristotelous Onassis
 12697,Kishinev,Moldova,Chisinau International
-12698,Kitwe,Zambia,Kitwe/Nkana
+12698,Kitwe,Zambia,Kitwe Nkana
 12699,Osaka,Japan,Kansai International
 12700,Kilwa,Tanzania,Kilwa Masoko
 12701,Krasnojarsk,Russia,Yemelyanovo
@@ -2634,7 +2634,7 @@
 12751,Capanda,Angola,Capanda Dam
 12752,King Island,Australia,King Island
 12753,Kennett,MO,Kennett Memorial
-12754,Kanpur,India,Kanpur/Chakeri
+12754,Kanpur,India,Kanpur Chakeri
 12755,New Stuyahok,AK,New Stuyahok
 12756,Kununurra,Australia,Kununurra
 12757,Kenieba,Mali,Kenieba
@@ -2643,7 +2643,7 @@
 12761,Koolatah,Australia,Koolatah
 12762,Kirkwall,United Kingdom,Kirkwall
 12763,Kagoshima,Japan,Kagoshima
-12764,Kokkola/Pietarsaari,Finland,Kokkola Pietarsaari
+12764,Kokkola Pietarsaari,Finland,Kokkola Pietarsaari
 12765,Kontum,Vietnam,Kontum
 12766,Nakhon Phanom,Thailand,Nakhon Phanom
 12767,Kokoro,Papua New Guinea,Kokoro
@@ -2668,7 +2668,7 @@
 12786,Akutan,AK,Akutan
 12787,Karumba,Australia,Karumba
 12788,Kramfors,Sweden,Kramfors Solleftea
-12789,Krakow,Poland,John Paul II - Balice
+12789,Krakow,Poland,John Paul II   Balice
 12790,Kasitsna Bay,AK,Kasitsna
 12791,Kiruna,Sweden,Kiruna
 12792,Karup,Denmark,Karup
@@ -2730,11 +2730,11 @@
 12855,Kwethluk,AK,Kwethluk
 12856,Kolwezi,Congo (Kinshasa),Kolwezi
 12857,Kasaan,AK,Kasaan Seaplane Base
-12858,Komsomolsk-na-Amure,Russia,Komsomolsk South
+12858,Komsomolsk na Amure,Russia,Komsomolsk South
 12859,Danville,KY,Stuart Powell Field
 12860,Sturgis,KY,Sturgis Municipal
-12861,Mount Sterling,KY,Mount Sterling - Montgomery County
-12862,Henderson,KY,Henderson City - County
+12861,Mount Sterling,KY,Mount Sterling   Montgomery County
+12862,Henderson,KY,Henderson City   County
 12863,Madisonville,KY,Madisonville Regional
 12864,Konya,Turkey,Konya
 12865,Yankee Creek,AK,Yankee Creek 2
@@ -2747,7 +2747,7 @@
 12872,Kazan,Russia,Kazan
 12873,Lamar,CO,Lamar Municipal
 12874,Lab Lab,Papua New Guinea,Lab Lab
-12875,Pulau Layang-Layang,Malaysia,Pulau Layang-Layang
+12875,Pulau Layang Layang,Malaysia,Pulau Layang Layang
 12876,Luanda,Angola,Luanda 4 de Fevereiro
 12877,Lae,Papua New Guinea,Nadzab
 12878,Lafayette,IN,Purdue University
@@ -2763,18 +2763,18 @@
 12888,Laramie,WY,Laramie Regional
 12889,Las Vegas,NV,McCarran International
 12890,Lamu,Kenya,Lamu Manda
-12891,Lawton/Fort Sill,OK,Lawton-Fort Sill Regional
+12891,Lawton Fort Sill,OK,Lawton Fort Sill Regional
 12892,Los Angeles,CA,Los Angeles International
 12893,Ladysmith,South Africa,Ladysmith
 12894,Bom Jesus Da Lapa,Brazil,Bom Jesus Da Lapa
-12895,Leeds/Bradford,United Kingdom,Leeds Bradford
+12895,Leeds Bradford,United Kingdom,Leeds Bradford
 12896,Lubbock,TX,Lubbock Preston Smith International
 12897,Luebeck,Germany,Luebeck Blankensee
 12898,Latrobe,PA,Arnold Palmer Regional
 12899,North Platte,NE,North Platte Regional Lee Bird Field
 12900,Paris,France,Paris Le Bourget
 12901,Albi,France,Albi Le Sequestre
-12902,Liberal,KS,Liberal Mid-America Regional
+12902,Liberal,KS,Liberal Mid America Regional
 12903,Long Banga,Malaysia,Long Banga
 12904,Lambarene,Gabon,Lambarene
 12905,Labasa,Fiji,Labasa
@@ -2782,7 +2782,7 @@
 12907,Labuan,Malaysia,Labuan
 12908,Libreville,Gabon,Libreville Leon M'Ba
 12909,Lubang,Philippines,Lubang
-12910,La Baule,France,Saint Nazaire/Montoir
+12910,La Baule,France,Saint Nazaire Montoir
 12911,Larnaca,Cyprus,Larnaka International
 12912,Lecce,Italy,Lecce
 12913,La Ceiba,Honduras,Goloson International
@@ -2794,7 +2794,7 @@
 12919,Las Canas,Costa Rica,Las Canas
 12920,London,United Kingdom,London City
 12921,Londrina,Brazil,Governador Jose Richa
-12922,Tarbes/Lourdes/Pyrenees,France,Tarbes-Lourdes-Pyrenees
+12922,Tarbes Lourdes Pyrenees,France,Tarbes Lourdes Pyrenees
 12923,Lord Howe Island,Australia,Lord Howe Island
 12924,Lindi,Tanzania,Lindi
 12925,Linden,NJ,Linden
@@ -2804,7 +2804,7 @@
 12929,Landivisiau,France,Landivisiau
 12930,Londonderry,United Kingdom,Londonderry
 12931,Learmonth,Australia,Learmonth
-12932,Lebanon-Hanover,NH,Lebanon Municipal
+12932,Lebanon Hanover,NH,Lebanon Municipal
 12933,St. Petersburg,Russia,Pulkovo
 12934,Leesburg,FL,Leesburg International
 12935,Aleg,Mauritania,Aleg
@@ -2815,9 +2815,9 @@
 12941,Leconi,Gabon,Leconi
 12942,Leticia,Colombia,Alfredo Vasquez Cobo
 12943,Bureta,Fiji,Bureta
-12944,Lewiston/Auburn,ME,Auburn Lewiston Municipal
+12944,Lewiston Auburn,ME,Auburn Lewiston Municipal
 12945,Lexington,KY,Blue Grass
-12947,Newport News/Hampton,VA,Langley AFB
+12947,Newport News Hampton,VA,Langley AFB
 12948,Lufkin,TX,Angelina County
 12949,Kelafo,Ethiopia,Kelafo
 12950,La Fria,Venezuela,Francisco Javier Garcia Hevia
@@ -2825,8 +2825,8 @@
 12952,Lome,Togo,Gnassingbe Eyadema International
 12953,New York,NY,LaGuardia
 12954,Long Beach,CA,Long Beach
-12955,LaGrange,GA,LaGrange-Callaway
-12956,La Grande,OR,La Grande/Union County
+12955,LaGrange,GA,LaGrange Callaway
+12956,La Grande,OR,La Grande Union County
 12957,Liege,Belgium,Liege
 12958,Leigh Creek,Australia,Leigh Creek
 12959,Deadman's Cay,The Bahamas,Deadman's Cay
@@ -2865,7 +2865,7 @@
 12992,Little Rock,AR,Bill and Hillary Clinton Nat Adams Field
 12993,Livengood,AK,Livengood
 12994,Loikaw,Burma,Loikaw
-12995,Hinesville,GA,Wright AAF/Midcoast Regional
+12995,Hinesville,GA,Wright AAF Midcoast Regional
 12996,Limestone,ME,Loring International
 12997,Lodja,Congo (Kinshasa),Lodja
 12998,Lijiang,China,Sanyi
@@ -2914,7 +2914,7 @@
 13043,Lagos,Nigeria,Murtala Muhammed
 13044,Louisville,KY,Bowman Field
 13045,Monclova,Mexico,Venustiano Carranza International
-13046,London/Corbin,KY,London-Corbin-Magee Field
+13046,London Corbin,KY,London Corbin Magee Field
 13047,Las Palmas,Spain,Gran Canaria
 13048,La Paz,Bolivia,El Alto International
 13049,Lompoc,CA,Lompoc
@@ -2933,7 +2933,7 @@
 13062,Longreach,Australia,Longreach
 13063,Jacksonville,AR,Little Rock AFB
 13064,Loring,AK,Loring
-13065,La Rochelle,France,La Rochelle/Laleu
+13065,La Rochelle,France,La Rochelle Laleu
 13066,Lorica,Colombia,Lorica
 13067,Niamtougou,Togo,Niamtougou International
 13068,La Romana,Dominican Republic,Casa de Campo International
@@ -2974,7 +2974,7 @@
 13103,Lugano,Switzerland,Lugano
 13104,Lusikisiki,South Africa,Lusikisiki
 13105,Cincinnati,OH,Cincinnati Municipal Lunken Field
-13106,Laurel,MS,Hesler-Noble Field
+13106,Laurel,MS,Hesler Noble Field
 13108,Lusaka,Zambia,Kenneth Kaunda International
 13109,Kalaupapa,HI,Kalaupapa
 13110,San Luis,Argentina,San Luis
@@ -2990,13 +2990,13 @@
 13120,Las Vegas,NM,Las Vegas Municipal
 13121,Lewisburg,WV,Greenbrier Valley
 13122,Lawrence,KS,Lawrence Municipal
-13123,Lawrenceburg,TN,Lawrenceburg-Lawrence County
-13124,Wells,NV,Wells Municipal/Harriet Field
+13123,Lawrenceburg,TN,Lawrenceburg Lawrence County
+13124,Wells,NV,Wells Municipal Harriet Field
 13125,Lawrence,MA,Lawrence Municipal
 13126,Lviv,Ukraine,Lviv International
 13127,Lewiston,ID,Lewiston Nez Perce County
 13128,Lewistown,MT,Lewistown Municipal
-13129,Lawrenceville,IL,Lawrenceville-Vincennes International
+13129,Lawrenceville,IL,Lawrenceville Vincennes International
 13130,Lawas,Malaysia,Lawas
 13131,Lhasa,China,Gonggar
 13132,Lexington,NE,Jim Kelly Field
@@ -3006,7 +3006,7 @@
 13136,Little Cayman,Cayman Islands,Edward Bodden
 13137,Lycksele,Sweden,Lycksele
 13138,Lyneham,United Kingdom,RAF Lyneham
-13139,Lynchburg,VA,Lynchburg Regional/Preston Glenn Field
+13139,Lynchburg,VA,Lynchburg Regional Preston Glenn Field
 13140,Lyon,France,Lyon Bron
 13141,Faisalabad,Pakistan,Faisalabad International
 13142,Longyearbyen,Norway,Svalbard
@@ -3017,14 +3017,14 @@
 13147,Liuzhou,China,Liuzhou Bailian
 13149,Luzhou,China,Luzhou
 13150,Lizard Island,Australia,Lizard Island
-13151,Lawrenceville,GA,Gwinnett County - Briscoe Field
+13151,Lawrenceville,GA,Gwinnett County   Briscoe Field
 13152,Edgartown,MA,Katama Airpark
 13153,Chennai,India,Chennai International
 13154,Maraba,Brazil,Joao Correa Da Rocha
 13155,Macon,GA,Macon Downtown
 13156,Madrid,Spain,Adolfo Suarez Madrid Barajas
 13157,Madera,CA,Madera Municipal
-13158,Midland/Odessa,TX,Midland International Air and Space Port
+13158,Midland Odessa,TX,Midland International Air and Space Port
 13159,Madang,Papua New Guinea,Madang
 13160,Mahon,Spain,Menorca
 13161,Mangochi,Malawi,Mangochi
@@ -3047,19 +3047,19 @@
 13179,Mbeya,Tanzania,Mbeya
 13180,Montego Bay,Jamaica,Sangster International
 13181,Matupa,Brazil,Matupa
-13182,Manistee/Ludington,MI,Manistee County-Blacker
+13182,Manistee Ludington,MI,Manistee County Blacker
 13183,Mamburao,Philippines,Mamburao
-13184,Saginaw/Bay City/Midland,MI,MBS International
+13184,Saginaw Bay City Midland,MI,MBS International
 13185,Masbate,Philippines,Masbate
 13186,Mbambanakira,Solomon Islands,Mbambanakira
 13187,Maribor,Slovenia,Maribor
 13188,Moberley,MO,Omar N Bradley
 13189,Maues,Brazil,Maues
 13190,Macenta,Guinea,Macenta
-13191,McComb,MS,McComb/Pike County/John E. Lewis Field
+13191,McComb,MS,McComb Pike County John E. Lewis Field
 13192,Sacramento,CA,McClellan Airfield
 13193,Mackinac Island,MI,Mackinac Island
-13194,Merced,CA,Merced Regional/Macready Field
+13194,Merced,CA,Merced Regional Macready Field
 13195,Tampa,FL,Macdill AFB
 13196,McGrath,AK,McGrath
 13197,Machala,Ecuador,General Manuel Serrano
@@ -3074,7 +3074,7 @@
 13206,Melchor de Mencos,Guatemala,Melchor de Mencos
 13207,Monte Caseros,Argentina,Monte Caseros
 13208,Muscat,Oman,Muscat International
-13209,Montlucon,France,Gueret/Lepaud
+13209,Montlucon,France,Gueret Lepaud
 13210,McArthur River,Australia,McArthur River Mine
 13211,Mason City,IA,Mason City Municipal
 13212,Maroochydore,Australia,Sunshine Coast
@@ -3082,7 +3082,7 @@
 13214,San Antonio,TX,Martindale AHP
 13215,Melinda,Belize,Melinda
 13216,Menado,Indonesia,Sam Ratulangi
-13217,Midland/Odessa,TX,Midland Airpark
+13217,Midland Odessa,TX,Midland Airpark
 13218,Medellin,Colombia,Jose Maria Cordova
 13219,Medford,WI,Taylor County
 13220,Mudanjiang,China,Hailang
@@ -3116,12 +3116,12 @@
 13248,Meulaboh,Indonesia,Seunagan
 13249,Atwater,CA,Castle
 13250,Medan,Indonesia,Polonia
-13251,Minden,NV,Minden-Tahoe
+13251,Minden,NV,Minden Tahoe
 13252,Mexico City,Mexico,Licenciado Benito Juarez International
 13253,Meghauli,Nepal,Meghauli
 13254,Mafia Island,Tanzania,Mafia
 13255,Mansfield,OH,Mansfield Lahm Regional
-13256,Mission/McAllen/Edinburg,TX,McAllen Miller International
+13256,Mission McAllen Edinburg,TX,McAllen Miller International
 13257,Moanda,Gabon,Moanda
 13258,Muzaffarabad,Pakistan,Muzaffarabad
 13259,Mesquite,NV,Mesquite
@@ -3129,7 +3129,7 @@
 13261,Macau,Macau,Macau International
 13262,Milford Sound,New Zealand,Milford Sound
 13263,Maradi,Niger,Maradi
-13264,Medford,OR,Rogue Valley International - Medford
+13264,Medford,OR,Rogue Valley International   Medford
 13265,Miraflores,Colombia,Miraflores
 13266,Fort Worth,TX,Mangham Field
 13267,Mfuwe,Zambia,Mfuwe
@@ -3145,22 +3145,22 @@
 13277,Montgomery,AL,Montgomery Regional
 13278,Magangue,Colombia,Magangue
 13279,Mogadishu,Somalia,Aden Adde International
-13280,Moultrie/Thomasville,GA,Moultrie/Thomasville
+13280,Moultrie Thomasville,GA,Moultrie Thomasville
 13281,Mangaia,Cook Islands,Mangaia Cook Island
-13282,Morgantown,WV,Morgantown Municipal-Walter L. Bill Hart Field
-13283,Dayton,OH,Dayton-Wright Brothers
+13282,Morgantown,WV,Morgantown Municipal Walter L. Bill Hart Field
+13283,Dayton,OH,Dayton Wright Brothers
 13284,Mahdia,Guyana,Mahdia
 13286,Mashhad,Iran,Shahid Hashemi Nejad International
 13287,Mitchell,SD,Mitchell Municipal
 13288,Mannheim,Germany,Mannheim City
 13289,Marsh Harbour,The Bahamas,Leonard M Thompson International
-13290,Manhattan/Ft. Riley,KS,Manhattan Regional
+13290,Manhattan Ft. Riley,KS,Manhattan Regional
 13291,Marshall,MO,Marshall Memorial Municipal
 13292,Minchumina,AK,Minchumina
 13293,Mount House,Australia,Mount House
 13294,Mariehamn,Finland,Mariehamn
 13295,Sacramento,CA,Sacramento Mather
-13296,Manchester,NH,Manchester-Boston Regional
+13296,Manchester,NH,Manchester Boston Regional
 13297,Mojave,CA,Mojave Air and Space Port
 13299,Mildenhall,United Kingdom,Mildenhall
 13300,Greenville,MI,Greenville Municipal
@@ -3170,7 +3170,7 @@
 13304,Minot,ND,Minot AFB
 13305,Minneapolis,MN,Crystal
 13306,Merida,Mexico,Licenciado Manuel Crescencio Rejon International
-13307,Muncie/Anderson/Newcastle,IN,Delaware County Regional
+13307,Muncie Anderson Newcastle,IN,Delaware County Regional
 13308,Marilia,Brazil,Frank Miloye Milenkovich
 13309,Mili,Marshall Islands,Mili
 13310,Mikkeli,Finland,Mikkeli
@@ -3182,7 +3182,7 @@
 13316,Omaha,NE,Millard
 13317,Monastir,Tunisia,Habib Bourguiba International
 13318,Misima Island,Papua New Guinea,Misima
-13319,Shafter,CA,Shafter - Minter Field
+13319,Shafter,CA,Shafter   Minter Field
 13320,Maiduguri,Nigeria,Maiduguri
 13321,Millville,NJ,Millville Municipal
 13322,Marshalltown,IA,Marshalltown Municipal
@@ -3196,7 +3196,7 @@
 13330,Mayajigua,Cuba,Mayajigua
 13331,Mitiga,Libya,Mitiga International
 13332,Mouila,Gabon,Mouila
-13333,Mbuji-Mayi,Congo (Kinshasa),Mbuji Mayi
+13333,Mbuji Mayi,Congo (Kinshasa),Mbuji Mayi
 13334,Majunga,Madagascar,Philibert Tsiranana
 13335,Jackson,MN,Jackson
 13336,Mytilene,Greece,Mitilini
@@ -3210,7 +3210,7 @@
 13345,Obo Mboki,Central African Republic,Obo Mboki
 13346,Makoua,Congo (Brazaville),Makoua
 13347,Hoolehua,HI,Molokai
-13348,Jackson,TN,McKellar-Sipes Regional
+13348,Jackson,TN,McKellar Sipes Regional
 13349,Mukah,Malaysia,Mukah
 13350,Muskogee,OK,Muskogee Davis Regional
 13351,Makemo,French Polynesia,Makemo
@@ -3226,7 +3226,7 @@
 13361,McAlester,OK,McAlester Regional
 13362,Malad City,ID,Malad City
 13363,Male,Maldives,Velana International
-13364,Milford,UT,Milford Municipal/Ben and Judy Briscoe Field
+13364,Milford,UT,Milford Municipal Ben and Judy Briscoe Field
 13365,Malang,Indonesia,Abdul Rachman Saleh
 13366,Mulhouse,France,EuroAirport
 13367,Moline,IL,Quad City International
@@ -3254,7 +3254,7 @@
 13389,Athens,TN,McMinn County
 13390,Matsumoto,Japan,Matsumoto
 13391,Murmansk,Russia,Murmansk
-13392,Marshall,MN,Southwest Minnesota Regional-Marshall/Ryan Field
+13392,Marshall,MN,Southwest Minnesota Regional Marshall Ryan Field
 13393,Middlemount,Australia,Middlemount
 13394,Stow,MA,Minute Man Air Field
 13395,Mompos,Colombia,Mompos
@@ -3265,13 +3265,13 @@
 13400,Miyakojima,Japan,Miyako
 13401,Fosston,MN,Fosston Municipal
 13402,Moose Lake,MN,Moose Lake Carlton County
-13403,Ortonville,MN,Ortonville Municipal-Martinson Field
+13403,Ortonville,MN,Ortonville Municipal Martinson Field
 13404,Moanda,Congo (Kinshasa),Muanda
 13405,Nacala,Mozambique,Nacala International
 13406,Montserrat,Montserrat,John A Osborne
 13407,Maiana,Kiribati,Maiana
 13408,Manila,Philippines,Ninoy Aquino International
-13409,Marinette,MI,Menominee-Marinette Twin County
+13409,Marinette,MI,Menominee Marinette Twin County
 13410,Marion,OH,Marion Municipal
 13411,Manono,Congo (Kinshasa),Manono
 13413,Mongu,Zambia,Mongu
@@ -3279,20 +3279,20 @@
 13415,Minto,AK,Minto Al Wright
 13416,Mawlamyine,Burma,Mawlamyine
 13417,Manicore,Brazil,Manicore
-13418,Manassas,VA,Manassas Regional/Harry P. Davis Field
+13418,Manassas,VA,Manassas Regional Harry P. Davis Field
 13419,Mosby,MO,Midwest National Air Center
 13420,Washington,MO,Washington Regional
 13421,Moa,Cuba,Orestes Acosta
 13422,Mobile,AL,Mobile Regional
 13423,Montes Claros,Brazil,Mario Ribeiro
-13424,Modesto,CA,Modesto City-County-Harry Sham Field
+13424,Modesto,CA,Modesto City County Harry Sham Field
 13425,Mong Hsat,Burma,Mong Hsat
 13426,Molde,Norway,Aro
 13427,Moudjeria,Mauritania,Moudjeria Ledfotar
 13428,Mount Cook,New Zealand,Mount Cook
 13429,Mount Pleasant,MI,Mount Pleasant Municipal
 13430,Morondava,Madagascar,Morondava
-13431,Morristown,TN,Moore-Murrell
+13431,Morristown,TN,Moore Murrell
 13432,Moses Point,AK,Moses Point
 13433,Minot,ND,Minot International
 13434,Mountain Village,AK,Mountain Village
@@ -3309,8 +3309,8 @@
 13446,Mt. Pocono,PA,Pocono Mountains Municipal
 13447,McPherson,KS,McPherson
 13448,Mount Pleasant,TX,Mount Pleasant Municipal
-13449,Maliana,Timor-Leste,Maliana
-13450,Montpelier/Barre,VT,Edward F Knapp State
+13449,Maliana,Timor Leste,Maliana
+13450,Montpelier Barre,VT,Edward F Knapp State
 13451,Miyanmin,Papua New Guinea,Miyanmin
 13452,Macomb,IL,Macomb Municipal
 13453,Indianapolis,IN,Indianapolis Regional
@@ -3323,7 +3323,7 @@
 13460,Mek'ele,Ethiopia,Mek'ele
 13461,Smyrna,TN,Smyrna
 13462,Misurata,Libya,Misrata International
-13463,Martinsburg,WV,Eastern WV Regional/Shepherd Field
+13463,Martinsburg,WV,Eastern WV Regional Shepherd Field
 13464,Columbia,TN,Maury County
 13465,Merida,Venezuela,Alberto Carnevalli
 13466,Morehead City,NC,Beaufort Morehead City
@@ -3344,11 +3344,11 @@
 13482,Masirah,Oman,Masirah
 13483,Misawa,Japan,Misawa AB
 13484,Muscle Shoals,AL,Northwest Alabama Regional
-13485,Madison,WI,Dane County Regional-Truax Field
+13485,Madison,WI,Dane County Regional Truax Field
 13486,Missoula,MT,Missoula International
-13487,Minneapolis,MN,Minneapolis-St Paul International
+13487,Minneapolis,MN,Minneapolis St Paul International
 13488,Minsk,Belarus,Minsk 2
-13490,Massena,NY,Massena International-Richards Field
+13490,Massena,NY,Massena International Richards Field
 13491,Maastricht,Netherlands,Maastricht Aachen
 13492,Maseru,Lesotho,Moshoeshoe I International
 13493,Monticello,NY,Sullivan County International
@@ -3360,11 +3360,11 @@
 13499,Mt. Sandford,Australia,Mount Sanford Station
 13500,Monte Alegre,Brazil,Monte Alegre
 13501,Marathon,FL,The Florida Keys Marathon International
-13502,Montrose/Delta,CO,Montrose Regional
+13502,Montrose Delta,CO,Montrose Regional
 13503,Maitland,Australia,Maitland
 13504,Metlakatla,AK,Metlakatala
 13505,Baltimore,MD,Martin State
-13506,Mattoon/Charleston,IL,Coles County Memorial
+13506,Mattoon Charleston,IL,Coles County Memorial
 13507,Montauk Point,NY,Sky Portal
 13508,Monteria,Colombia,Los Garzones
 13509,Manzini,Swaziland,Matsapha
@@ -3377,7 +3377,7 @@
 13516,Munda,Solomon Islands,Munda
 13517,Maun,Botswana,Maun
 13518,Munich,Germany,Muenchen
-13520,Kamuela,HI,Waimea-Kohala
+13520,Kamuela,HI,Waimea Kohala
 13521,Mulege,Mexico,Mulege
 13522,Mersa Matruh,Egypt,Mersa Matruh
 13523,Moultrie,GA,Spence
@@ -3395,20 +3395,20 @@
 13536,Kayenta,AZ,Kayenta
 13537,Mount Vernon,IL,Mount Vernon
 13539,Maroua,Cameroon,Salak
-13540,Burlington/Mount Vernon,WA,Skagit Regional
+13540,Burlington Mount Vernon,WA,Skagit Regional
 13541,Martha's Vineyard,MA,Martha's Vineyard
-13543,Marion/Herrin,IL,Veterans of Southern Illinois
+13543,Marion Herrin,IL,Veterans of Southern Illinois
 13544,Milwaukee,WI,Lawrence J Timmerman
 13545,Mianwali,Pakistan,Mianwali
 13546,Moses Lake,WA,Grant County International
 13547,Mineral Wells,TX,Mineral Wells
 13548,Windom,MN,Windom Municipal
-13549,Middletown,OH,Middletown Regional/Hook Field
+13549,Middletown,OH,Middletown Regional Hook Field
 13550,Magwe,Burma,Magway
 13551,Mwanza,Tanzania,Mwanza
 13552,Masamba,Indonesia,Andi Jemma
 13553,Monticello,UT,Monticello
-13554,Maxton,NC,Laurinburg-Maxton
+13554,Maxton,NC,Laurinburg Maxton
 13555,Montgomery,AL,Maxwell AFB
 13556,Marlboro,MA,Marlboro
 13557,Moro,Papua New Guinea,Moro
@@ -3443,16 +3443,16 @@
 13587,Marana,AZ,Pinal Airpark
 13588,Marakei,Kiribati,Marakei
 13589,Manizales,Colombia,La Nubia
-13590,Metz,France,Metz-Nancy Metz-Frescaty
+13590,Metz,France,Metz Nancy Metz Frescaty
 13591,Minj,Papua New Guinea,Minj
 13592,Manzanillo,Cuba,Sierra Maestra International
-13593,Mazar-I-Sherif,Afghanistan,Mawlana Jalaluddin Muhammad Balkhi
+13593,Mazar I Sherif,Afghanistan,Mawlana Jalaluddin Muhammad Balkhi
 13594,Mazatlan,Mexico,General Rafael Buelna International
 13595,Marion,IN,Marion Municipal
 13596,Pottstown,PA,Pottstown Municipal
-13597,Robbinsville,NJ,Trenton-Robbinsville
+13597,Robbinsville,NJ,Trenton Robbinsville
 13598,Narrabri,Australia,Narrabri
-13599,North Adams,MA,Harriman-and-West
+13599,North Adams,MA,Harriman and West
 13600,Nagpur,India,Dr. Baba Saheb Ambedkar International
 13601,Nakhon Ratchasima,Thailand,Nakhon Ratchasima
 13602,Nadi,Fiji,Nadi International
@@ -3472,7 +3472,7 @@
 13618,Guantanamo,Cuba,Guantanamo Bay NS
 13619,Gastonia,NC,Gastonia Municipal
 13620,Smithfield,NC,Johnston Regional
-13621,Shelby,NC,Shelby-Cleveland County Regional
+13621,Shelby,NC,Shelby Cleveland County Regional
 13622,Currituck,NC,Currituck County Regional
 13623,Kenansville,NC,Duplin County
 13624,North Caicos,Turks and Caicos Islands,North Caicos International
@@ -3494,12 +3494,12 @@
 13641,Ndjamena,Chad,Hassan Djamous
 13642,Ndele,Central African Republic,Ndele
 13643,Nador,Morocco,El Aroui International
-13644,Cuxhaven,Germany,Nordholz-Spieka
+13644,Cuxhaven,Germany,Nordholz Spieka
 13645,Gothenburg,NE,Gothenburg Municipal
 13646,Blair,NE,Blair Municipal
 13647,Brunswick,GA,Glynco NAS
 13648,Negril,Jamaica,Negril
-13650,Lakehurst,NJ,Lakehurst/Maxfield Field
+13650,Lakehurst,NJ,Lakehurst Maxfield Field
 13651,Neryungri,Russia,Neryungri
 13652,New Bight,The Bahamas,New Bight
 13653,Sam Neua,Laos,Samneua
@@ -3518,7 +3518,7 @@
 13666,Nagasaki,Japan,Nagasaki
 13667,Norfolk,VA,Norfolk NS
 13668,Alameda,CA,Alameda NAS
-13669,Nha-Trang,Vietnam,Nha Trang
+13669,Nha Trang,Vietnam,Nha Trang
 13670,Dubai,United Arab Emirates,Minhad AB
 13671,Patuxent River,MD,Patuxent River NAS
 13672,Northolt,United Kingdom,RAF Northolt
@@ -3573,7 +3573,7 @@
 13721,Nonouti,Kiribati,Nonouti
 13722,Mactan Island,Philippines,Nab
 13723,Nordfjordur,Iceland,Nordfjordur
-13724,Nossi-Be,Madagascar,Fascene
+13724,Nossi Be,Madagascar,Fascene
 13725,Novato,CA,Gnoss Field
 13726,Noumea,New Caledonia,Noumea La Tontouta
 13727,Huambo,Angola,Huambo
@@ -3603,7 +3603,7 @@
 13752,Scone,Australia,Scone
 13753,Nakhon Si Thammarat,Thailand,Nakhon Si Thammarat
 13754,Sigonella,Italy,Sigonella
-13755,Snap Lake,Canada,Snap Lake Mine/Debeers
+13755,Snap Lake,Canada,Snap Lake Mine Debeers
 13756,Port Hueneme,CA,Point Mugu NAS
 13757,Nantes,France,Nantes Atlantique
 13758,Newcastle,Australia,Williamtown
@@ -3632,9 +3632,9 @@
 13782,Fulton,NY,Oswego County
 13783,Oneonta,NY,F and F Airpark Inc
 13784,New York,NY,New York City Metropolitan Area
-13785,Yuma,AZ,Yuma MCAS/Yuma International
+13785,Yuma,AZ,Yuma MCAS Yuma International
 13786,Nykoping,Sweden,Skavsta
-13787,Nyaung-U,Burma,Bagan
+13787,Nyaung U,Burma,Bagan
 13788,Jacksonville,FL,Cecil
 13789,Santa Ana,CA,El Toro MCAS
 13790,South Weymouth,MA,South Weymouth NAS
@@ -3642,7 +3642,7 @@
 13792,Redding,CA,Benton Field
 13793,Orange,Australia,Orange
 13794,Bagram,Afghanistan,Bagram
-13795,Jacksonville/Camp Lejeune,NC,Albert J Ellis
+13795,Jacksonville Camp Lejeune,NC,Albert J Ellis
 13796,Oakland,CA,Metropolitan Oakland International
 13797,Oamaru,New Zealand,Oamaru
 13798,Olanchito,Honduras,El Arrayan
@@ -3654,7 +3654,7 @@
 13805,Oakland,MD,Garrett County
 13806,Kobuk,AK,Kobuk
 13808,Ocean City,MD,Ocean City Municipal
-13809,Ocala,FL,Ocala International-Jim Taylor Field
+13809,Ocala,FL,Ocala International Jim Taylor Field
 13810,Nacogdoches,TX,Nacogdoches A L Mangham Jr Regional
 13811,Oceanic,AK,Thumb Bay
 13812,Ocho Rios,Jamaica,Boscobel
@@ -3667,14 +3667,14 @@
 13819,Oakland,MD,Oakland
 13820,Odessa,Ukraine,Odessa International
 13821,Oak Harbor,WA,A.J. Eisenberg
-13822,Oecusse,Timor-Leste,Oecusse
+13822,Oecusse,Timor Leste,Oecusse
 13823,Oernskoeldsvik,Sweden,Ornskoldsvik
 13824,Omaha,NE,Offutt AFB
-13825,Norfolk,NE,Norfolk Regional/Karl Stefan Memorial Field
+13825,Norfolk,NE,Norfolk Regional Karl Stefan Memorial Field
 13826,Ofu,TT,Ofu
 13827,Ogallala,NE,Searle Field
 13828,Orangeburg,SC,Orangeburg Municipal
-13829,Ogden,UT,Ogden-Hinckley
+13829,Ogden,UT,Ogden Hinckley
 13830,Kahului,HI,Kahului
 13831,Yonaguni,Japan,Yonaguni
 13832,Ogdensburg,NY,Ogdensburg International
@@ -3682,7 +3682,7 @@
 13834,Bellefontaine,OH,Bellefontaine Regional
 13835,Chillicothe,OH,Ross County
 13836,Marysville,OH,Union County
-13837,Cincinnati,OH,Cincinnati - Blue Ash
+13837,Cincinnati,OH,Cincinnati   Blue Ash
 13838,Ravenna,OH,Portage County
 13839,Kent,OH,Kent State University
 13840,Ohakea,New Zealand,Ohakea
@@ -3698,14 +3698,14 @@
 13851,Oklahoma City,OK,Will Rogers World
 13852,Sapporo,Japan,Okadama
 13853,Okayama,Japan,Okayama
-13854,Kokomo/Logansport/Peru,IN,Kokomo Municipal
+13854,Kokomo Logansport Peru,IN,Kokomo Municipal
 13855,Okondja,Gabon,Okondja
 13856,Tokyo,Japan,Yokota AB
 13857,Yorke Island,Australia,Yorke Island
 13858,Oakey,Australia,Oakey
 13859,Orland,Norway,Orland
 13860,Olbia,Italy,Olbia Costa Smeralda
-13861,Olean,NY,Cattaraugus County-Olean
+13861,Olean,NY,Cattaraugus County Olean
 13862,Wolf Point,MT,L. M. Clayton
 13863,Old Harbor,AK,Old Harbor
 13864,Olafsvik,Iceland,Rif
@@ -3724,19 +3724,19 @@
 13878,Mostar,Bosnia and Herzegovina,Mostar
 13879,Oradea,Romania,Oradea
 13880,Omsk,Russia,Omsk Tsentralny
-13881,Winona,MN,Winona Municipal/Max Conrad Field
+13881,Winona,MN,Winona Municipal Max Conrad Field
 13882,Ondangwa,Namibia,Ondangwa
 13883,Mornington Island,Australia,Mornington Island
 13884,Oneonta,NY,Oneonta Municipal
 13885,Odate Noshiro,Japan,Odate Noshiro
-13886,O'Neill,NE,The O'Neill Municipal-John L. Baker Field
+13886,O'Neill,NE,The O'Neill Municipal John L. Baker Field
 13887,Socorro,NM,Socorro Municipal
 13888,Onion Bay,AK,Onion Bay
 13889,Ontario,OR,Ontario Municipal
 13890,Newport,OR,Newport Municipal
 13891,Ontario,CA,Ontario International
 13892,Colon,Panama,Enrique A Jimenez
-13893,Cobol,AK,Cobol Alaska/Scaled/
+13893,Cobol,AK,Cobol Alaska Scaled 
 13894,Toksook,AK,Toksook Bay
 13895,Gold Coast,Australia,Gold Coast
 13896,Cooma,Australia,Cooma
@@ -3780,12 +3780,12 @@
 13939,Orapa,Botswana,Orapa
 13940,Northway,AK,Northway
 13941,Oruro,Bolivia,Juan Mendoza
-13942,Noorvik,AK,Robert/Bob/Curtis Memorial
+13942,Noorvik,AK,Robert Bob Curtis Memorial
 13943,Paris,France,Paris Orly
 13944,Orange Walk,Belize,Orange Walk
 13945,Osaka,Japan,Osaka Metropolitan Area
-13946,Osage Beach,MO,Grand Glaize - Osage Beach
-13947,Oscoda,MI,Oscoda-Wurtsmith
+13946,Osage Beach,MO,Grand Glaize   Osage Beach
+13947,Oscoda,MI,Oscoda Wurtsmith
 13948,Ostersund,Sweden,Are Ostersund
 13949,Oshkosh,WI,Wittman Regional
 13950,Osijek,Croatia,Osijek
@@ -3797,12 +3797,12 @@
 13956,Ostrava,Czech Republic,Mosnov
 13957,Ostend,Belgium,Oostende
 13958,Columbus,OH,Ohio State University
-13959,Kosciusko,MS,Kosciusko/Attala County
+13959,Kosciusko,MS,Kosciusko Attala County
 13960,Namsos,Norway,Namsos
 13961,Koszalin,Poland,Zegrze Pomorskie
 13962,Contadora,Panama,Raul Arias Espinoza
 13963,Worthington,MN,Worthington Municipal
-13964,North Bend/Coos Bay,OR,Southwest Oregon Regional
+13964,North Bend Coos Bay,OR,Southwest Oregon Regional
 13965,Ottumwa,IA,Ottumwa Regional
 13966,Bucharest,Romania,Henri Coanda
 13967,Coto 47,Costa Rica,Coto 47
@@ -3814,7 +3814,7 @@
 13973,Ouesso,Congo (Brazaville),Ouesso
 13974,Oudtshoorn,South Africa,Oudtshoorn
 13975,Oulu,Finland,Oulu
-13976,Norman,OK,University of Oklahoma/Max Westheimer
+13976,Norman,OK,University of Oklahoma Max Westheimer
 13977,Batouri,Cameroon,Batouri
 13978,Bekily,Madagascar,Bekily
 13979,Novosibirsk,Russia,Tolmachevo
@@ -3823,9 +3823,9 @@
 13982,Owatonna,MN,Owatonna Degner Regional
 13983,Owensboro,KY,Owensboro Daviess County Regional
 13984,Norwood,MA,Norwood Memorial
-13986,Bissau,Guinea-Bissau,Osvaldo Vieira
+13986,Bissau,Guinea Bissau,Osvaldo Vieira
 13987,Waterbury,CT,Waterbury Oxford
-13988,Oxnard/Ventura,CA,Oxnard
+13988,Oxnard Ventura,CA,Oxnard
 13989,Knoxville,IA,Knoxville Municipal
 13990,Goya,Argentina,Goya
 13991,Oyem,Gabon,Oyem
@@ -3839,8 +3839,8 @@
 13999,Ozark,AL,Cairns AAF
 14000,Montrose,PA,Husky Haven
 14001,Bedford,PA,Bedford County
-14002,Pa-An,Burma,Hpa An
-14003,Paderborn,Germany,Paderborn/Lippstadt
+14002,Pa An,Burma,Hpa An
+14003,Paderborn,Germany,Paderborn Lippstadt
 14004,Everett,WA,Snohomish County
 14005,Pagadian,Philippines,Pagadian
 14006,Paducah,KY,Barkley Regional
@@ -3848,14 +3848,14 @@
 14009,Panama City,FL,Tyndall AFB
 14010,Pattani,Thailand,Pattani
 14011,Palo Alto,CA,Palo Alto
-14012,Port-au-Prince,Haiti,Port Au Prince International
+14012,Port au Prince,Haiti,Port Au Prince International
 14013,Palmer,AK,Palmer Buddy Woods Municipal
 14014,Paris,France,Paris Metropolitan Area
 14015,Paros,Greece,Paros
 14016,Patna,India,Jai Prakash Narayan International Patna
 14017,Paulo Alfonso,Brazil,Paulo Afonso
-14018,Port-de-Paix,Haiti,Port-de-Paix
-14019,Pamol,Malaysia,Tungud/Pamol
+14018,Port de Paix,Haiti,Port de Paix
+14019,Pamol,Malaysia,Tungud Pamol
 14020,Poza Rica,Mexico,Tajin
 14021,Point Barrow,AK,Point Barrow LRRS
 14022,Puebla,Mexico,Hermanos Serdan International
@@ -3863,7 +3863,7 @@
 14024,Pine Bluff,AR,Pine Bluff Regional Grider Field
 14025,Plattsburgh,NY,Plattsburgh International
 14026,Paro,Bhutan,Paro International
-14027,West Palm Beach/Palm Beach,FL,Palm Beach International
+14027,West Palm Beach Palm Beach,FL,Palm Beach International
 14028,Pack Creek,AK,Pack Creek
 14029,Puerto Cabello,Venezuela,General Bartolome Salom
 14030,Zanderij,Suriname,Johan A. Pengel International
@@ -3931,7 +3931,7 @@
 14095,Port Harcourt,Nigeria,Port Harcourt
 14096,New Philadelphia,OH,Harry Clever Field
 14097,Port Hedland,Australia,Port Hedland International
-14098,Newport News/Williamsburg,VA,Newport News/Williamsburg International
+14098,Newport News Williamsburg,VA,Newport News Williamsburg International
 14099,Pinheiro,Brazil,Pinheiro
 14100,Philadelphia,PA,Philadelphia International
 14101,Port Huron,MI,St. Clair County International
@@ -3941,14 +3941,14 @@
 14105,Paris,TN,Henry County
 14106,Phalaborwa,South Africa,Kruger Park Gateway
 14107,Phoenix,AZ,Phoenix Sky Harbor International
-14108,Peoria,IL,General Downing - Peoria International
-14109,Hattiesburg/Laurel,MS,Hattiesburg-Laurel Regional
+14108,Peoria,IL,General Downing   Peoria International
+14109,Hattiesburg Laurel,MS,Hattiesburg Laurel Regional
 14110,Pine Cay,Turks and Caicos Islands,Pine Cay British West Indies
-14111,Nassau/Paradise Island,The Bahamas,Nassau-Paradise Island
+14111,Nassau Paradise Island,The Bahamas,Nassau Paradise Island
 14112,St. Petersburg,FL,St Pete Clearwater International
 14113,Pocatello,ID,Pocatello Regional
 14114,Fairbanks,AK,Phillips Field
-14115,Glasgow/Prestwick,United Kingdom,Prestwick
+14115,Glasgow Prestwick,United Kingdom,Prestwick
 14116,Pine Mountain,GA,Harris County
 14117,Parintins,Brazil,Parintins
 14118,Pisco,Peru,Pisco International
@@ -3964,15 +3964,15 @@
 14128,Puerto Jimenez,Costa Rica,Puerto Jimenez
 14129,Port San Juan,AK,Port San Juan
 14130,Napaskiak,AK,Napaskiak
-14131,Parkersburg,WV,Mid-Ohio Valley Regional
-14132,Petropavlovsk-Kamchatsky,Russia,Yelizovo
-14133,Park Rapids,MN,Park Rapids Municipal-Konshok Field
+14131,Parkersburg,WV,Mid Ohio Valley Regional
+14132,Petropavlovsk Kamchatsky,Russia,Yelizovo
+14133,Park Rapids,MN,Park Rapids Municipal Konshok Field
 14134,Parkes,Australia,Parkes
-14135,Porto-Kheli,Greece,Porto Heli
+14135,Porto Kheli,Greece,Porto Heli
 14136,Pakokku,Burma,Pakhokku
 14138,Pokhara,Nepal,Pokhara
 14139,Pekanbaru,Indonesia,Simpang Tiga
-14140,Selebi-Phikwe,Botswana,Selebi-Phikwe
+14140,Selebi Phikwe,Botswana,Selebi Phikwe
 14141,Pakse,Laos,Pakse International
 14142,Planadas,Colombia,Planadas
 14143,Plattsburgh,NY,Clinton County
@@ -3987,7 +3987,7 @@
 14153,Providenciales,Turks and Caicos Islands,Providenciales International
 14154,Plato,Colombia,Plato
 14155,Belo Horizonte,Brazil,Pampulha Carlos Drummond de Andrade
-14156,Palu,Indonesia,Palu Celebes-Mutiara Indon.
+14156,Palu,Indonesia,Palu Celebes Mutiara Indon.
 14157,Plymouth,IN,Plymouth Municipal
 14158,Port Elizabeth,South Africa,Port Elizabeth International
 14159,Pemba Island,Tanzania,Pemba
@@ -4025,7 +4025,7 @@
 14191,Pune,India,Pune
 14192,Pointe Noire,Congo (Brazaville),Antonio Agostinho Neto
 14193,Pensacola,FL,Pensacola International
-14194,Sherman-Denison,TX,Sherman-Denison
+14194,Sherman Denison,TX,Sherman Denison
 14195,Petrolina,Brazil,Petrolina
 14196,Porto Alegre,Brazil,Salgado Filho
 14197,Fayetteville,NC,Pope AAF
@@ -4062,7 +4062,7 @@
 14228,Papeete,French Polynesia,Tahiti Faa'a
 14229,Port Protection,AK,Port Protection
 14230,Puerto Paez,Venezuela,Puerto Paez
-14231,Presque Isle/Houlton,ME,Northern Maine Regional at Presque Isle
+14231,Presque Isle Houlton,ME,Northern Maine Regional at Presque Isle
 14232,Palenque,Mexico,Palenque International
 14233,Port Macquarie,Australia,Port Macquarie
 14234,Pilot Station,AK,Pilot Station
@@ -4082,7 +4082,7 @@
 14249,Prineville,OR,Prineville
 14250,Pisa,Italy,Pisa
 14251,Philipsburg,PA,Mid State
-14252,Pasco/Kennewick/Richland,WA,Tri Cities
+14252,Pasco Kennewick Richland,WA,Tri Cities
 14253,Port Said,Egypt,Port Said
 14254,Ponce,PR,Mercedita
 14255,Pittsfield,MA,Pittsfield Municipal
@@ -4119,7 +4119,7 @@
 14286,Panama City,Panama,Tocumen International
 14287,Pastaza,Ecuador,Rio Amazonas
 14288,Pueblo,CO,Pueblo Memorial
-14289,Price,UT,Carbon County Regional/Buck Davis Field
+14289,Price,UT,Carbon County Regional Buck Davis Field
 14290,Puerto Deseado,Argentina,Puerto Deseado
 14291,Pau,France,Pau Pyrenees
 14292,Port Augusta,Australia,Port Augusta
@@ -4170,7 +4170,7 @@
 14337,Puerto Ordaz,Venezuela,General Manuel Carlos Piar
 14338,Port Sudan,Sudan,Port Sudan
 14339,Piestany,Slovakia,Piestany International
-14341,Jackpot,NV,Jackpot/Hayden Field
+14341,Jackpot,NV,Jackpot Hayden Field
 14343,Alcantara,Brazil,Centro de Lancamento de Alcantara
 14344,Globe,AZ,San Carlos Apache
 14345,Port Clinton,OH,Erie Ottawa International
@@ -4181,7 +4181,7 @@
 14355,Bella Coola,Canada,Bella Coola
 14358,Lathrop Wells,NV,Jackass Aeropark
 14359,Green River,UT,Oman Ranch
-14360,Put-In-Bay,OH,Put-In-Bay
+14360,Put In Bay,OH,Put In Bay
 14361,Middle Bass Island,OH,Middle Bass Island
 14365,Indian Creek,ID,Indian Creek Usfs
 14366,Abilene,KS,Abilene
@@ -4199,7 +4199,7 @@
 14386,Avalon,CA,Camp Fox
 14387,Houghton,MI,Grognet Seaplane Base
 14388,Houston,TX,Astroworld Helipad
-14391,Houston,TX,Houston Metro-/Ho
+14391,Houston,TX,Houston Metro  Ho
 14392,Isle Royale Park,MI,Isle Royale National Park
 14393,Jubail,Saudi Arabia,Jubail
 14395,Kona Village,HI,Kona Keahole
@@ -4215,7 +4215,7 @@
 14413,Nimiuk Point,AK,Nimiuk Point
 14414,Boston,MA,Nashua Street Heliport
 14415,Sealing Point,AK,Sealing Point
-14417,Westminster,MD,Carroll County Regional/Jack B. Poage Field
+14417,Westminster,MD,Carroll County Regional Jack B. Poage Field
 14420,Stevensville,MT,Stevensville
 14422,Bonners Ferry,ID,Boundary County
 14423,Shingletown,CA,Shingletown
@@ -4247,9 +4247,9 @@
 14460,Raduzhnyi,Russia,Raduzhnyi
 14461,Red Bank,NJ,Greely Helipad
 14462,Rawala Kot,Pakistan,Rawalakot
-14463,Rabat,Morocco,Rabat/Sale International
+14463,Rabat,Morocco,Rabat Sale International
 14464,Ugashik,AK,Randy Field
-14465,Dallas/Fort Worth,TX,Dallas Executive
+14465,Dallas Fort Worth,TX,Dallas Executive
 14466,Big Bear City,CA,Big Bear City
 14467,Roseburg,OR,Roseburg Regional
 14468,Brooks Lodge,AK,Brooks Lodge
@@ -4271,11 +4271,11 @@
 14485,Red Dog,AK,Red Dog
 14486,Redencao,Brazil,Redencao
 14487,Redding,CA,Redding Municipal
-14488,Reading,PA,Reading Regional/Carl A Spaatz Field
-14489,Bend/Redmond,OR,Roberts Field
+14488,Reading,PA,Reading Regional Carl A Spaatz Field
+14489,Bend Redmond,OR,Roberts Field
 14490,Red River,ND,Grand Forks AFB
-14491,Richard-Toll,Senegal,Richard-Toll
-14492,Raleigh/Durham,NC,Raleigh-Durham International
+14491,Richard Toll,Senegal,Richard Toll
+14492,Raleigh Durham,NC,Raleigh Durham International
 14493,Red Devil,AK,Red Devil
 14494,Rodez,France,Rodez Aveyron
 14495,Redlands,CA,Redlands Municipal
@@ -4294,7 +4294,7 @@
 14509,Reus,Spain,Reus
 14510,Reynosa,Mexico,General Lucio Blanco International
 14511,Reyes,Bolivia,Reyes
-14512,Rockford,IL,Chicago/Rockford International
+14512,Rockford,IL,Chicago Rockford International
 14513,Raiatea,French Polynesia,Raiatea Uturoa
 14514,Rio Grande,Argentina,Rio Grande
 14515,Tuamoto Islands,French Polynesia,Rangiroa
@@ -4302,7 +4302,7 @@
 14517,Yangon,Burma,Yangon International
 14518,Rengat,Indonesia,Japura
 14519,Reims,France,Champagne
-14520,Rhinelander,WI,Rhinelander/Oneida County
+14520,Rhinelander,WI,Rhinelander Oneida County
 14521,Rhodes,Greece,Diagoras
 14522,Santa Maria,Brazil,Santa Maria
 14523,Riberalta,Bolivia,Cap Av Selin Zeitun Lopez
@@ -4316,7 +4316,7 @@
 14531,Rio de Janeiro,Brazil,Rio de Janeiro Metropolitan Area
 14532,Riverside,CA,Flabob
 14533,Riverside,CA,March ARB
-14534,Riverton/Lander,WY,Riverton Regional
+14534,Riverton Lander,WY,Riverton Regional
 14535,Riga,Latvia,Riga International
 14536,Riyan Mukalla,Yemen,Mukalla International
 14537,Rijeka,Croatia,Rijeka
@@ -4331,14 +4331,14 @@
 14546,Rockwood,TN,Rockwood Municipal
 14547,Rolla,MO,Rolla Downtown
 14548,Richland,WA,Richland
-14549,Rostock-Laage,Germany,Laage
+14549,Rostock Laage,Germany,Laage
 14550,Arlit,Niger,Arlit
-14551,Bornite/Ruby Creek,AK,Bornite Upper
+14551,Bornite Ruby Creek,AK,Bornite Upper
 14552,Roma,Australia,Roma
 14553,Rome,NY,Griffiss International
 14554,Rome,GA,Richard B Russell Regional J H Towers Field
 14555,Rimini,Italy,Rimini Miramare
-14556,Colombo,Sri Lanka,Colombo/Ratmalana
+14556,Colombo,Sri Lanka,Colombo Ratmalana
 14557,Stafford,VA,Stafford Regional
 14558,Ormoc,Philippines,Ormoc
 14559,Rampart,AK,Rampart
@@ -4352,7 +4352,7 @@
 14567,Rangely,CO,Rangely
 14568,Corn Island,Nicaragua,Corn Island
 14569,Ronne,Denmark,Bornholm Ronne
-14570,Reno,NV,Reno/Tahoe International
+14570,Reno,NV,Reno Tahoe International
 14571,Rennes,France,Rennes Saint Jacques
 14572,Renton,WA,Renton Municipal
 14573,Ranau,Malaysia,Ranau
@@ -4371,8 +4371,8 @@
 14586,Russe,Bulgaria,Bulg
 14587,Rostov,Russia,Rostov
 14588,Roswell,NM,Roswell International Air Center
-14589,Roseau,MN,Roseau Municipal/Rudy Billberg Field
-14590,Rosh-Pina,Israel,Izhak Ben Yaakov
+14589,Roseau,MN,Roseau Municipal Rudy Billberg Field
+14590,Rosh Pina,Israel,Izhak Ben Yaakov
 14591,Raipur,India,Swami Vivekananda
 14592,Roundup,MT,Roundup
 14593,Lone Pine,CA,Lone Pine Death Valley
@@ -4380,7 +4380,7 @@
 14595,Harlowton,MT,Wheatland County at Harlowton
 14596,Mendota,CA,William Robert Johnston Municipal
 14597,Prosser,WA,Prosser
-14598,Lincolnton,NC,Lincolnton-Lincoln County Regional
+14598,Lincolnton,NC,Lincolnton Lincoln County Regional
 14599,Covington,TN,Covington Municipal
 14600,Perkasie,PA,Pennridge
 14601,Nixon Fork Mine,AK,Nixon Fork Mine
@@ -4390,16 +4390,16 @@
 14605,Sterling,MA,Sterling
 14606,Cave Junction,OR,Illinois Valley
 14607,Seneca,NY,Seneca AAF
-14608,Lovington,NM,Lea County-Zip Franklin Memorial
-14609,Woodland,CA,Watts/Woodland
+14608,Lovington,NM,Lea County Zip Franklin Memorial
+14609,Woodland,CA,Watts Woodland
 14610,Harbor Springs,MI,Harbor Springs
 14611,Springwater,Canada,Springwater Barrie Airpark
 14612,Lubbock,TX,Lubbock Executive Airpark
-14613,Wasco,CA,Wasco-Kern County
+14613,Wasco,CA,Wasco Kern County
 14614,Salt Lake City,UT,South Valley Regional
 14615,Parowan,UT,Parowan
 14616,Burlington,CO,Kit Carson County
-14617,Comanche,TX,Comanche County-City
+14617,Comanche,TX,Comanche County City
 14618,Mary Esther,FL,Hurlburt Field
 14620,Rodrigues Island,Mauritius,Plaine Corail
 14621,Rourkela,India,Rourkela
@@ -4421,7 +4421,7 @@
 14637,Roatan Island,Honduras,Juan Manuel Galvez International
 14638,Marguerite Bay,AK,Marguerite Bay
 14639,Rotterdam,Netherlands,Rotterdam
-14640,Raton,NM,Raton Municipal/Crews Field
+14640,Raton,NM,Raton Municipal Crews Field
 14641,Colton,CA,Morrow Field
 14642,Rottnest Island,Australia,Rottnest Island
 14643,Keperveyem,Russia,Keperveyem
@@ -4429,15 +4429,15 @@
 14645,Riyadh,Saudi Arabia,King Khalid International
 14646,Ruidoso,NM,Sierra Blanca Regional
 14647,Reunion Island,Reunion,La Reunion Roland Garros
-14648,Rutland,VT,Rutland - Southern Vermont Regional
+14648,Rutland,VT,Rutland   Southern Vermont Regional
 14649,Rubelsanto,Guatemala,Rubelsanto
 14651,Farafangana,Madagascar,Farafangana
 14652,Rovaniemi,Finland,Rovaniemi
 14653,Tulsa,OK,Richard Lloyd Jones Jr.
 14654,Rivera,Uruguay,Cerro Chapeu
 14655,Rowan Bay,AK,Rowan Bay
-14656,Rocky Mount,NC,Rocky Mount-Wilson Regional
-14657,Rawlins,WY,Rawlins Municipal/Harvey Field
+14656,Rocky Mount,NC,Rocky Mount Wilson Regional
+14657,Rawlins,WY,Rawlins Municipal Harvey Field
 14658,Rodman Bay,AK,Rodman Bay
 14659,Roxas City,Philippines,Roxas
 14660,Greeley,CO,Weld County Municipal
@@ -4464,7 +4464,7 @@
 14682,San Andros,The Bahamas,San Andros
 14683,San Antonio,TX,San Antonio International
 14684,Sabu,Indonesia,Tardanu
-14685,Savannah,GA,Savannah/Hilton Head International
+14685,Savannah,GA,Savannah Hilton Head International
 14686,Istanbul,Turkey,Sabiha Gokcen
 14687,Sambu,Panama,Sambu
 14688,Sienna,Italy,Ampugnano
@@ -4476,18 +4476,18 @@
 14694,Santa Ana,Bolivia,Santa Ana del Yacuma
 14695,Sheboygan,WI,Sheboygan County Memorial
 14696,South Bend,IN,South Bend International
-14697,Salina,UT,Salina-Gunnison
+14697,Salina,UT,Salina Gunnison
 14698,San Luis Obispo,CA,San Luis County Regional
-14699,Steamboat Springs,CO,Steamboat Springs/Bob Adams Field
-14700,San Bernardino,CA,Tri-City
+14699,Steamboat Springs,CO,Steamboat Springs Bob Adams Field
+14700,San Bernardino,CA,Tri City
 14701,Springbok,South Africa,Springbok
 14702,South Boston,VA,William M Tuck
 14703,Sibu,Malaysia,Sibu
-14704,Salisbury,MD,Salisbury-Ocean City/Wicomico Regional
+14704,Salisbury,MD,Salisbury Ocean City Wicomico Regional
 14705,Sibiu,Romania,Sibiu
 14706,Beaufort,SC,Beaufort MCAS
 14707,Winnsboro,SC,Fairfield County
-14708,Conway,SC,Conway-Horry County
+14708,Conway,SC,Conway Horry County
 14709,Deadhorse,AK,Deadhorse
 14711,State College,PA,University Park
 14712,Phoenix,AZ,Scottsdale
@@ -4508,7 +4508,7 @@
 14727,Baghdad,Iraq,Baghdad International
 14728,Lubango,Angola,Lubango
 14729,Santiago del Estero,Argentina,Santiago del Estero
-14730,Louisville,KY,Louisville International-Standiford Field
+14730,Louisville,KY,Louisville International Standiford Field
 14732,Santa Rosa de Copan,Honduras,Santa Rosa de Copan
 14733,Sendai,Japan,Sendai
 14734,Sandakan,Malaysia,Sandakan
@@ -4524,14 +4524,14 @@
 14744,Sedona,AZ,Sedona
 14745,Sidney,MT,Sidney Richland Regional
 14746,Solleftea,Sweden,Solleftea
-14747,Seattle,WA,Seattle/Tacoma International
+14747,Seattle,WA,Seattle Tacoma International
 14748,Sebha,Libya,Sebha
 14749,San Diego,CA,Gillespie Field
 14750,Sebring,FL,Sebring Regional
 14751,Selinsgrove,PA,Penn Valley
-14752,Seoul,South Korea,Kimpo International/Seoul Metropolitan Area
+14752,Seoul,South Korea,Kimpo International Seoul Metropolitan Area
 14753,Selma,AL,Craig Field
-14754,Southend-On-Sea,United Kingdom,Southend
+14754,Southend On Sea,United Kingdom,Southend
 14755,Sungai Pakning,Indonesia,Sungai Pakning
 14756,Seymour,IN,Freeman Municipal
 14757,Selma,AL,Selfield
@@ -4560,9 +4560,9 @@
 14780,Surgut,Russia,Surgut
 14781,Sonderborg,Denmark,Sonderborg
 14782,Siegen,Germany,Siegerland
-14783,Springfield,MO,Springfield-Branson National
+14783,Springfield,MO,Springfield Branson National
 14784,Simanggang,Malaysia,Simanggang
-14785,Springfield,OH,Springfield-Beckley Municipal
+14785,Springfield,OH,Springfield Beckley Municipal
 14786,Sagarai,Papua New Guinea,Sagarai
 14788,San Ignacio,Mexico,San Ignacio
 14789,Ho Chi Minh City,Vietnam,Tan Son Nhat International
@@ -4618,7 +4618,7 @@
 14839,Sao Jose Do Rio Preto,Brazil,Sao Jose Do Rio Preto
 14840,Sesheke,Zambia,Sesheke
 14841,San Jose,Bolivia,San Jose de Chiquitos
-14842,San Angelo,TX,San Angelo Regional/Mathis Field
+14842,San Angelo,TX,San Angelo Regional Mathis Field
 14843,San Juan,PR,Luis Munoz Marin International
 14844,San Javier,Bolivia,San Javier
 14845,Shijiazhuang,China,Zhengding
@@ -4651,14 +4651,14 @@
 14872,Sola,Vanuatu,Sola
 14873,Solwezi,Zambia,Solwezi
 14874,Chandler,AZ,Stellar Airpark
-14875,Saranac Lake/Lake Placid,NY,Adirondack Regional
+14875,Saranac Lake Lake Placid,NY,Adirondack Regional
 14876,Salalah,Oman,Salalah
 14877,Salina,KS,Salina Regional
-14878,Salem,IL,Salem/Leckrone
+14878,Salem,IL,Salem Leckrone
 14879,San Luis Potosi,Mexico,Ponciano Arriaga International
 14880,Sleetmute,AK,Sleetmute
 14881,Sulphur Springs,TX,Sulphur Springs Municipal
-14882,Silistra,Bulgaria,Silistra Polkovnik-Lambrinovo
+14882,Silistra,Bulgaria,Silistra Polkovnik Lambrinovo
 14883,Salida,CO,Harriet Alexander Field
 14884,St. Lucia,Saint Lucia,George F Charles
 14885,Shimla,India,Shimla
@@ -4681,16 +4681,16 @@
 14902,Stone Mountain,GA,Stone Mountain
 14903,Sheep Mountain,AK,Sheep Mountain
 14904,St. Moritz,Switzerland,Samedan
-14905,Santa Maria,CA,Santa Maria Public/Capt. G. Allan Hancock Field
+14905,Santa Maria,CA,Santa Maria Public Capt. G. Allan Hancock Field
 14906,Simenti,Senegal,Simenti
 14907,Stoelmanseiland,Suriname,Stoelmanseiland
-14908,Santa Ana,CA,John Wayne-Orange County
+14908,Santa Ana,CA,John Wayne Orange County
 14909,Snake Bay,Australia,Snake Bay
 14910,Salinas,Ecuador,General Ulpiano Paez
 14911,Sao Nicolau,Cape Verde,Preguica
 14912,San Felipe,Venezuela,Sub Teniente Nestor Arias
 14913,San Ignacio de Velasco,Bolivia,Cap. Av. Juan Cochamanidis Saucedo
-14914,Greenville/Sinoe,Liberia,Greenville/Sinoe
+14914,Greenville Sinoe,Liberia,Greenville Sinoe
 14915,Snyder,TX,Winston Field
 14916,Shawnee,OK,Shawnee Regional
 14917,San Ignacio de Moxos,Bolivia,San Ignacio de Moxos
@@ -4698,12 +4698,12 @@
 14919,St. Paul,AK,St. Paul Island
 14920,San Quintin,Mexico,San Quintin Southeast
 14921,St. Nazaire,France,Saint Nazaire Montoir
-14922,Salinas/Monterey,CA,Salinas Municipal
+14922,Salinas Monterey,CA,Salinas Municipal
 14923,Las Cruces,Colombia,Las Cruces
 14924,Santa Clara,Cuba,Abel Santamaria International
 14925,Santa Elena,Venezuela,Wonkin
 14926,Thandwe,Burma,Thandwe
-14927,Sidney,NE,Sidney Municipal/Lloyd W. Carr Field
+14927,Sidney,NE,Sidney Municipal Lloyd W. Carr Field
 14928,Solo City,Indonesia,Adi Soemarmo International
 14929,Sofia,Bulgaria,Sofia
 14930,Sogndal,Norway,Haukasen
@@ -4713,7 +4713,7 @@
 14934,Solomon,AK,Solomon State Field
 14935,San Tome,Venezuela,San Tome
 14936,Espiritu Santo,Vanuatu,Espiritu
-14938,Pinehurst/Southern Pines,NC,Moore County
+14938,Pinehurst Southern Pines,NC,Moore County
 14939,Sorong,Indonesia,Sorong
 14941,Southampton,United Kingdom,Southampton
 14942,Seldovia,AK,Seldovia
@@ -4731,15 +4731,15 @@
 14954,Spangdahlem,Germany,Spangdahlem AB
 14955,Saipan,TT,Francisco C. Ada Saipan International
 14957,Menongue,Angola,Menongue
-14958,San Pedro,CA,Catalina Air-Sea Terminal Heliport
+14958,San Pedro,CA,Catalina Air Sea Terminal Heliport
 14959,San Pedro,Belize,San Pedro
-14960,Wichita Falls,TX,Sheppard AFB/Wichita Falls Municipal
+14960,Wichita Falls,TX,Sheppard AFB Wichita Falls Municipal
 14961,Split,Croatia,Split
 14962,Spencer,IA,Spencer Municipal
 14963,San Pedro,Cote d'Ivoire,San Pedro
 14964,Springdale,AR,Springdale Municipal
 14965,Santa Ynez,CA,Santa Ynez
-14966,Sterling/Rockfalls,IL,Whiteside County-Jos H. Bittorf Field
+14966,Sterling Rockfalls,IL,Whiteside County Jos H. Bittorf Field
 14967,San Carlos,CA,San Carlos
 14968,Sanana,Indonesia,Emalamo
 14969,Storuman,Sweden,Storuman
@@ -4759,7 +4759,7 @@
 14983,Strahan,Australia,Strahan
 14984,Santana Ramos,Colombia,Santana Ramos
 14985,Stord,Norway,Stord
-14986,Sarasota/Bradenton,FL,Sarasota/Bradenton International
+14986,Sarasota Bradenton,FL,Sarasota Bradenton International
 14987,Stony River,AK,Stony River
 14988,Salisbury,NC,Mid Carolina Regional
 14989,Sert,Libya,Sirte International
@@ -4793,10 +4793,10 @@
 15017,Santarem,Brazil,Eduardo Gomes
 15018,London,United Kingdom,London Stansted
 15019,Stockholm,Sweden,Stockholm Metropolitan Area
-15020,Minneapolis/St. Paul,MN,St. Paul Downtown Holman Field
+15020,Minneapolis St. Paul,MN,St. Paul Downtown Holman Field
 15021,St. Marys,PA,St. Marys Municipal
 15022,Stuttgart,Germany,Stuttgart
-15023,Santa Rosa,CA,Charles M. Schulz - Sonoma County
+15023,Santa Rosa,CA,Charles M. Schulz   Sonoma County
 15024,Charlotte Amalie,VI,Cyril E King
 15026,Stavropol,Russia,Shpakovskoye
 15027,Christiansted,VI,Henry E. Rohlsen
@@ -4812,17 +4812,17 @@
 15037,Satu Mare,Romania,Satu Mare
 15039,Sui,Pakistan,Sui
 15040,Sumter,SC,Sumter
-15041,Sun Valley/Hailey/Ketchum,ID,Friedman Memorial
+15041,Sun Valley Hailey Ketchum,ID,Friedman Memorial
 15042,Sunriver,OR,Sunriver
 15043,St. Louis,MO,Spirit of St. Louis
 15044,Sumbawanga,Tanzania,Sumbawanga
 15045,Fairfield,CA,Travis AFB
 15046,Suva,Fiji,Nausori International
 15047,Superior,WI,Richard I Bong
-15048,Sioux City,IA,Sioux Gateway/Col. Bud Day Field
+15048,Sioux City,IA,Sioux Gateway Col. Bud Day Field
 15049,Savoonga,AK,Savoonga
 15050,Sambava,Madagascar,Sambava
-15051,Silver City/Hurley,NM,Grant County
+15051,Silver City Hurley,NM,Grant County
 15052,St. Vincent,Saint Vincent and the Grenadines,E. T. Joshua
 15053,Stavanger,Norway,Sola
 15054,Statesville,NC,Statesville Regional
@@ -4841,7 +4841,7 @@
 15067,Shaw River,Australia,Shaw River
 15068,Stawell,Australia,Stawell
 15069,Seward,AK,Seward
-15070,Newburgh/Poughkeepsie,NY,Stewart International
+15070,Newburgh Poughkeepsie,NY,Stewart International
 15072,Milan,Italy,Segrate
 15073,Spanish Wells,The Bahamas,Spanish Wells
 15074,Stillwater,OK,Stillwater Regional
@@ -4863,11 +4863,11 @@
 15090,Shemya,AK,Eareckson AS
 15091,Seal Bay,AK,Seal Bay
 15092,Sydney,Australia,Sydney International
-15093,Shelbyville/Tullahoma,TN,Bomar Field-Shelbyville Municipal
+15093,Shelbyville Tullahoma,TN,Bomar Field Shelbyville Municipal
 15094,Stanton,MN,Stanton
 15095,Shonai,Japan,Shonai
 15096,Syracuse,NY,Syracuse Hancock International
-15097,Saint-Yan,France,Saint-Yan
+15097,Saint Yan,France,Saint Yan
 15098,Sanya,China,Phoenix International
 15099,Stornoway,United Kingdom,Stornoway
 15100,Shiraz,Iran,Shahid Dastghaib International
@@ -4900,17 +4900,17 @@
 15128,Tapachula,Mexico,Tapachula International
 15129,Taranto,Italy,Taranto Grottaglie
 15130,Tashkent,Uzbekistan,Tashkent Yuzhny
-15131,Poprad-Tatry,Slovakia,Poprad Tatry International
+15131,Poprad Tatry,Slovakia,Poprad Tatry International
 15132,Tau,TT,Tau
 15133,Taliabu,Indonesia,Taliabu
 15134,Tuy Hoa,Vietnam,Tuy Hoa
 15135,Tabiteuea,Kiribati,Tabiteuea
 15136,New Bight,The Bahamas,The Bight
 15137,Tableland,Australia,Tableland
-15138,Fort Leonard Wood,MO,Waynesville-St. Robert Regional Forney Field
+15138,Fort Leonard Wood,MO,Waynesville St. Robert Regional Forney Field
 15139,Tabora,Tanzania,Tabora
 15140,Tumbes,Peru,Cap. FAP Pedro Canga Rodriguez
-15141,Statesboro,GA,Statesboro-Bulloch County
+15141,Statesboro,GA,Statesboro Bulloch County
 15142,Tbilisi,Georgia,Tbilisi
 15143,Tabatinga,Brazil,Tabatinga
 15144,Tonga Tapu,Tonga,Fua Amotu International
@@ -4949,7 +4949,7 @@
 15179,Tefe,Brazil,Tefe
 15180,Tufi,Papua New Guinea,Tufi
 15181,Tenerife,Spain,Tenerife Norte
-15182,Tarbes/Lourdes/Pyrenees,France,Tarbes-Lourdes-Pyrenees
+15182,Tarbes Lourdes Pyrenees,France,Tarbes Lourdes Pyrenees
 15183,Tenerife,Spain,Tenerife Sur
 15184,Podgorica,Montenegro,Podgorica
 15185,Tuskegee,AL,Sharpe Field
@@ -4957,11 +4957,11 @@
 15187,Tongoa,Vanuatu,Tongoa
 15188,Tingo Maria,Peru,Tingo Maria
 15189,Targu Mures,Romania,Targu Mures
-15190,Touggourt,Algeria,Touggourt/Sidi Mahdi
+15190,Touggourt,Algeria,Touggourt Sidi Mahdi
 15191,Tanga,Tanzania,Tanga
 15192,Tegucigalpa,Honduras,Toncontin International
 15194,Tuxtla Gutierrez,Mexico,Francisco Sarabia
-15195,Tullahoma,TN,Tullahoma Regional/William Northern Field
+15195,Tullahoma,TN,Tullahoma Regional William Northern Field
 15196,Teresina,Brazil,Senador Petronio Portella
 15197,Berlin,Germany,Tempelhof
 15198,Biloela,Australia,Biloela (Thangool)
@@ -5018,8 +5018,8 @@
 15249,Tallahassee,FL,Tallahassee International
 15250,Tatalina,AK,Tatalina LRRS
 15252,Tallinn,Estonia,Lennart Meri Tallinn
-15253,Tlemcen,Algeria,Zenata-Messali El Hadj
-15254,Toulon/Hyeres,France,Hyeres Le Palyvestre
+15253,Tlemcen,Algeria,Zenata Messali El Hadj
+15254,Toulon Hyeres,France,Hyeres Le Palyvestre
 15255,Tulare,CA,Mefford Field
 15256,Toulouse,France,Toulouse Blagnac
 15257,Tuluksak,AK,Tuluksak
@@ -5030,7 +5030,7 @@
 15262,Tumlingtar,Nepal,Tumlingtar
 15263,Tamale,Ghana,Tamale
 15264,Tamatave,Madagascar,Toamasina
-15265,Tampere,Finland,Tampere-Pirkkala
+15265,Tampere,Finland,Tampere Pirkkala
 15266,Tamanrasset,Algeria,Aguemar
 15267,Sao Tome Island,Sao Tome and Principe,Salazar
 15268,Trombetas,Brazil,Trombetas
@@ -5051,7 +5051,7 @@
 15283,Tainan,Taiwan,Tainan
 15284,Twentynine Palms,CA,Twentynine Palms
 15285,Antananarivo,Madagascar,Ivato
-15286,Miami,FL,Dade-Collier Training and Transition
+15286,Miami,FL,Dade Collier Training and Transition
 15287,Newton,IA,Newton Municipal Earl Johnson Field
 15288,Stung Treng,Cambodia,Stung Treng
 15289,Torrance,CA,Zamperini Field
@@ -5074,11 +5074,11 @@
 15307,Tampa,FL,Peter O'Knight
 15308,Tonopah,NV,Tonopah
 15309,Tapini,Papua New Guinea,Tapini
-15310,Temple,TX,Draughon-Miller Central Texas Regional
+15310,Temple,TX,Draughon Miller Central Texas Regional
 15312,Tarapoto,Peru,Tarapoto
 15313,Tepic,Mexico,Tepic
 15314,Tom Price,Australia,Tom Price
-15315,Trapani/Marsala,Italy,Trapani/Birgi
+15315,Trapani Marsala,Italy,Trapani Birgi
 15316,Turbo,Colombia,Turbo
 15317,Torreon,Mexico,Torreon International
 15318,Trondheim,Norway,Vaernes
@@ -5086,7 +5086,7 @@
 15320,Sandefjord,Norway,Torp
 15321,Tauranga,New Zealand,Tauranga
 15322,Trona,CA,Trona
-15323,Bristol/Johnson City/Kingsport,TN,Tri Cities
+15323,Bristol Johnson City Kingsport,TN,Tri Cities
 15324,Tarakan,Indonesia,Juwata
 15325,Thermal,CA,Jacqueline Cochran Regional
 15326,Turin,Italy,Torino
@@ -5120,7 +5120,7 @@
 15356,Trenton,NJ,Trenton Mercer
 15358,Tsaratanana,Madagascar,Tsaratanana
 15359,Taitung,Taiwan,Fongnian
-15360,Tetuan,Morocco,Tetouan/Sania Ramel
+15360,Tetuan,Morocco,Tetouan Sania Ramel
 15361,Tulcan,Ecuador,Tulcan
 15362,Tubuai Island,French Polynesia,Tubuai Is Fr. Polynesia
 15363,Tucuman,Argentina,Tucuman
@@ -5149,18 +5149,18 @@
 15386,Toowoomba,Australia,Toowoomba
 15387,Port Townsend,WA,Jefferson County International
 15388,Taylor,AK,Taylor
-15389,Twin Falls,ID,Joslin Field - Magic Valley Regional
+15389,Twin Falls,ID,Joslin Field   Magic Valley Regional
 15390,Two Harbors,CA,Two Harbors
 15392,Tawau,Malaysia,Tawau
 15393,Mesquite,TX,Mesquite Metro
 15394,Denver City,TX,Denver City
-15395,Port Isabel,TX,Port Isabel - Cameron County
+15395,Port Isabel,TX,Port Isabel   Cameron County
 15396,Ballinger,TX,Bruce Field
 15397,Cleburne,TX,Cleburne Regional
 15398,Horseshoe Bay,TX,Horseshoe Bay Resort
 15399,Post,TX,Post Garza County Municipal
 15400,Taichung,Taiwan,Taichung
-15401,Texarkana,AR,Texarkana Regional-Webb Field
+15401,Texarkana,AR,Texarkana Regional Webb Field
 15402,Berlin,Germany,Tegel
 15403,Tunxi,China,Tunxi
 15404,Tabou,Cote d'Ivoire,Tabou
@@ -5188,9 +5188,9 @@
 15427,Chatham,MA,Chatham Municipal
 15428,Ube,Japan,Yamaguchi Ube
 15429,Ubon Ratchathani,Thailand,Ubon Ratchathani
-15430,Columbus,MS,Columbus-Lowndes County
-15431,Utica/Rome,NY,Oneida County
-15433,Union City,TN,Everett-Stewart Regional
+15430,Columbus,MS,Columbus Lowndes County
+15431,Utica Rome,NY,Oneida County
+15433,Union City,TN,Everett Stewart Regional
 15434,Bermuda Dunes,CA,Bermuda Dunes
 15435,Darlington,SC,Darlington County
 15436,Uberlandia,Brazil,Uberlandia
@@ -5211,7 +5211,7 @@
 15451,Quibdo,Colombia,El Carano
 15452,Qui Nhon,Vietnam,Phu Cat
 15453,Utila Island,Honduras,Utila Island Hond.
-15454,Quincy,IL,Quincy Regional-Baldwin Field
+15454,Quincy,IL,Quincy Regional Baldwin Field
 15455,Quito,Ecuador,Old Mariscal Sucre International
 15456,Quimper,France,Quimper Pluguffan
 15457,Kobe Honshu Island,Japan,Kobe
@@ -5237,7 +5237,7 @@
 15478,Unalakleet,AK,Unalakleet
 15479,Umnak,AK,Umnak
 15480,Unst,United Kingdom,Unst
-15481,Oxford,MS,University-Oxford
+15481,Oxford,MS,University Oxford
 15482,Ujung Pandang,Indonesia,Hasanuddin
 15483,Uruapan,Mexico,Uruapan
 15484,Upolo Point,HI,Upolu
@@ -5254,18 +5254,18 @@
 15495,Koh Samui,Thailand,Samui
 15496,Ulsan,South Korea,Ulsan
 15497,St. Augustine,FL,Northeast Florida Regional
-15498,Heber,UT,Heber City Municipal - Russ McDonald Field
+15498,Heber,UT,Heber City Municipal   Russ McDonald Field
 15499,Muttaburra,Australia,Muttaburra
 15500,Udon Thani,Thailand,Udon Thani
 15501,Utirik,Marshall Islands,Utirik Island
 15502,Tunica,MS,Tunica Municipal
 15503,Upington,South Africa,Upington International
 15504,Utopia,AK,Indian Mountain LRRS
-15505,Utapao,Thailand,U-Tapao Pattaya International
+15505,Utapao,Thailand,U Tapao Pattaya International
 15506,Mthatha,South Africa,Mthatha
 15507,Queenstown,South Africa,Queenstown
 15508,Kuparuk,AK,North Kuparuk
-15509,Yuzhno-Sakhalinsk,Russia,Khomutovo
+15509,Yuzhno Sakhalinsk,Russia,Khomutovo
 15510,Manumu,Papua New Guinea,Manumu
 15511,Uvalde,TX,Garner Field
 15512,Ouvea,New Caledonia,Ouvea Ouloup
@@ -5283,14 +5283,14 @@
 15524,Richmond,KY,Central Kentucky Regional
 15525,Petaluma,CA,Petaluma Municipal
 15526,Chariot,AK,Chariot
-15527,47-Mile Mine,AK,47-Mile Mine
+15527,47 Mile Mine,AK,47 Mile Mine
 15528,Prestonsburg,KY,Big Sandy Regional
 15529,Fitchburg,MA,Fitchburg Municipal
 15530,Bay St. Louis,MS,Stennis International
-15531,Gilze-Rijen,Netherlands,Gilze-Rijen
+15531,Gilze Rijen,Netherlands,Gilze Rijen
 15532,Monument Valley,UT,Monument Valley
 15533,Cimarron,KS,Cimarron Municipal
-15534,Lorain/Elyria,OH,Lorain County Regional
+15534,Lorain Elyria,OH,Lorain County Regional
 15535,Cheboygan,MI,Cheboygan County
 15536,Enterprise,OR,Enterprise Municipal
 15537,Cookeville,TN,Putnam County
@@ -5302,7 +5302,7 @@
 15544,Curuzu Cuatia,Argentina,Curuzu Cuatia
 15545,Emporia,VA,Emporia Greensville Regional
 15546,Chesapeake,VA,Chesapeake Regional
-15547,Marion/Wytheville,VA,Mountain Empire
+15547,Marion Wytheville,VA,Mountain Empire
 15548,Leesburg,VA,Leesburg Executive
 15549,Vaasa,Finland,Vaasa
 15550,Valdosta,GA,Moody AFB
@@ -5403,7 +5403,7 @@
 15650,Chelan,WA,Lake Chelan
 15651,Custer,SD,Custer County
 15652,Garibaldi,OR,Tillamook
-15653,Midland/Odessa,TX,Odessa Schlemeyer Field
+15653,Midland Odessa,TX,Odessa Schlemeyer Field
 15654,California City,CA,California City Municipal
 15655,Cameron,SC,McNeil
 15656,Saratoga Springs,NY,Saratoga County
@@ -5416,9 +5416,9 @@
 15663,Independence,CA,Independence
 15664,Wichita,KS,Colonel James Jabara
 15665,Americus,GA,Jimmy Carter Regional
-15668,Deer Lodge,MT,Deer Lodge-City-County
+15668,Deer Lodge,MT,Deer Lodge City County
 15669,Hondo,TX,South Texas Regional at Hondo
-15670,Landsberg Am Lech,Germany,Landsberg-Lech
+15670,Landsberg Am Lech,Germany,Landsberg Lech
 15671,Granite Creek Mine,AK,Granite Creek Mine
 15672,Sao Vicente,Cape Verde,Sao Pedro International
 15673,Vaxjo,Sweden,Smaland
@@ -5447,7 +5447,7 @@
 15698,Cape Greig,AK,Cape Greig
 15699,Kasba Lake,Canada,Kasba Lake
 15700,Katmai Lodge,AK,Katmai Lodge
-15701,South St. Paul,MN,South St. Paul Municipal-Richard E. Fleming Field
+15701,South St. Paul,MN,South St. Paul Municipal Richard E. Fleming Field
 15703,Mansfield,WA,Mansfield
 15704,Burlington,WA,Bayview Farms
 15705,Medical Lake,WA,Isaacson
@@ -5466,11 +5466,11 @@
 15718,Warsaw,Poland,Warsaw Chopin
 15720,Wahai,Indonesia,Wahai
 15721,Stebbins,AK,Stebbins
-15722,Commerce/Montebello,CA,Commerce/Montebello Heliport
+15722,Commerce Montebello,CA,Commerce Montebello Heliport
 15723,Wapenamanda,Papua New Guinea,Wapenamanda
 15724,Woburn,MA,Woburn
 15725,Beaver,AK,Beaver
-15726,Big Rapids,MI,Roben-Hood
+15726,Big Rapids,MI,Roben Hood
 15727,Bennettsville,SC,Bennettsville
 15728,Downtown,CA,Downtown
 15729,Castro,Chile,Gamboa
@@ -5488,20 +5488,20 @@
 15744,Wagga Wagga,Australia,Wagga Wagga
 15745,Walgett,Australia,Walgett
 15746,Bahia Tortugas,Mexico,Bahia Tortugas
-15747,Isle Baltra,Ecuador,Isle Baltra Off-Line Point
+15747,Isle Baltra,Ecuador,Isle Baltra Off Line Point
 15749,Winchester,VA,Winchester Regional
 15750,Waingapu,Indonesia,Mau Hau
 15751,Frenchville,ME,Northern Aroostook Regional
 15754,Hyder,AK,Hyder Seaplane Base
 15755,Whakatane,New Zealand,Whakatane
 15756,Franz Josef,New Zealand,Franz Josef
-15758,Eagle,CO,Vail/Avon
+15758,Eagle,CO,Vail Avon
 15759,Wharton,TX,Wharton Regional
 15760,Black River Falls,WI,Black River Falls Area
 15761,Phillips,WI,Price County
 15762,Wilbur,WA,Wilbur
 15763,Wick,United Kingdom,Wick
-15766,Nairobi,Kenya,Nairobi/Wilson
+15766,Nairobi,Kenya,Nairobi Wilson
 15767,Winton,Australia,Winton
 15768,Woja,Marshall Islands,Woja
 15769,Lancaster,CA,General William J. Fox Airfield
@@ -5578,7 +5578,7 @@
 15854,Waspam,Nicaragua,Waspam
 15855,Westerly,RI,Westerly State
 15856,Westsound,WA,Westsound
-15857,Shute Harbour/Whitsunday,Australia,Whitsunday Airstrip
+15857,Shute Harbour Whitsunday,Australia,Whitsunday Airstrip
 15858,Westport,New Zealand,Westport
 15859,New York,NY,World Trade Center Heliport
 15860,West End,The Bahamas,West End
@@ -5594,12 +5594,12 @@
 15870,Ocean Shores,WA,Avco
 15871,Wau,South Sudan,Wau
 15872,Wuxi,China,Shuofang
-15873,Charleston,WV,Mcs-Pad Heliport
-15874,Falls Church,VA,Washington-Virginia
+15873,Charleston,WV,Mcs Pad Heliport
+15874,Falls Church,VA,Washington Virginia
 15875,Walvis Bay,Namibia,Walvis Bay
 15877,Watsonville,CA,Watsonville Municipal
 15878,Manakara,Madagascar,Manakara
-15879,Augusta/Waterville,ME,Waterville Robert Lafleur
+15879,Augusta Waterville,ME,Waterville Robert Lafleur
 15881,Wasilla,AK,Wasilla
 15882,Cape May,NJ,Cape May County
 15883,Wewak,Papua New Guinea,Wewak International
@@ -5619,7 +5619,7 @@
 15903,Brockville,Canada,Brockville Regional Tackaberry
 15904,Christmas Island,Christmas Island,Christmas Island
 15905,Cluff Lake,Canada,Cluff Lake
-15906,Chalons-En-Champagne,France,Chalons Vatry
+15906,Chalons En Champagne,France,Chalons Vatry
 15907,Lake Geneva,WI,Americana
 15908,Xichang,China,Qingshan
 15910,Xi'an,China,Xianyang
@@ -5654,7 +5654,7 @@
 15945,Blackfoot,ID,McCarley Field
 15946,Riyadh,Saudi Arabia,Riyadh Military
 15947,Jupiter,FL,William P Gwinn
-15948,Kimball,NE,Kimball Municipal/Robert E. Arraj Field
+15948,Kimball,NE,Kimball Municipal Robert E. Arraj Field
 15949,Al Kharj,Saudi Arabia,Prince Sultan AB
 15950,Iwakuni,Japan,Iwakuni MCAS
 15952,Oliktok,AK,Oliktok LRRS
@@ -5662,17 +5662,17 @@
 15954,Marion,AL,Perry County
 15956,Driggs,ID,Teton Peaks
 15961,Woodford,United Kingdom,Manchester Woodford
-15963,Clarendon,TX,Smiley Johnson Municipal/Bass Field
+15963,Clarendon,TX,Smiley Johnson Municipal Bass Field
 15964,Lakewood,NJ,Lakewood
 15966,Cambridge,MA,Arthur D. Little Heliport
 15968,Doha,Qatar,Al Udeid AB
-15971,Willits,CA,Ells Field-Willits Municipal
+15971,Willits,CA,Ells Field Willits Municipal
 15972,Hurricane,UT,General Dick Stout Field
 15973,Lakeport,CA,Lampson Field
-15975,Mariposa,CA,Mariposa-Yosemite
+15975,Mariposa,CA,Mariposa Yosemite
 15976,Creswell,OR,Hobby Field
 15977,Polson,MT,Polson
-15978,Ashland,OR,Ashland Municipal-Sumner Parker Field
+15978,Ashland,OR,Ashland Municipal Sumner Parker Field
 15979,Decatur,WA,Decatur Shores
 15980,Lake City,FL,Lake City Gateway
 15981,Mena,AR,Mena Intermountain Municipal
@@ -5711,14 +5711,14 @@
 16015,Cornwall,Canada,Cornwall Regional
 16016,Nanaimo,Canada,Nanaimo
 16017,Cortes Bay,Canada,Cortes Bay
-16018,Castlegar/Nelson/Trail,Canada,Castlegar West Kootenay Regional
+16018,Castlegar Nelson Trail,Canada,Castlegar West Kootenay Regional
 16019,Miramichi,Canada,Miramichi
 16020,Cape Saint James,Canada,Cape Saint James
 16021,Colville Lake,Canada,Colville Lake Tommy Kochon
 16022,Charlo,Canada,Charlo
 16023,St. Catharines,Canada,Niagara District
 16024,Cochrane,Canada,Cochrane
-16025,Kugluktuk/Coppermine,Canada,Kugluktuk
+16025,Kugluktuk Coppermine,Canada,Kugluktuk
 16026,Cross Lake,Canada,Cross Lake
 16027,Chesterfield Inlet,Canada,Chesterfield Inlet
 16028,Clyde River,Canada,Clyde River
@@ -5730,7 +5730,7 @@
 16034,Nain,Canada,Nain
 16035,Dawson Creek,Canada,Dawson Creek
 16036,Desolation Sound,Canada,Desolation Sound Marine Park
-16038,Riviere-Du-Loup,Canada,Riviere-Du-Loup
+16038,Riviere Du Loup,Canada,Riviere Du Loup
 16039,Edmonton,Canada,Edmonton Metropolitan Area
 16040,Yecheon,South Korea,Yecheon
 16041,Edmonton,Canada,Edmonton Namao Heliport
@@ -5792,13 +5792,13 @@
 16098,Kangirsuk,Canada,Kangirsuk
 16099,Key Lake,Canada,Key Lake
 16100,Schefferville,Canada,Schefferville
-16101,Yakima,WA,Yakima Air Terminal/McAllister Field
+16101,Yakima,WA,Yakima Air Terminal McAllister Field
 16102,Yankton,SD,Chan Gurney Municipal
 16103,Yakutsk,Russia,Yakutsk
 16104,Fort George,Canada,Ft. George
 16105,Kirkland Lake,Canada,Kirkland Lake
 16106,Toronto,Canada,Buttonville Municipal
-16107,Kimmirut/Lake Harbour,Canada,Lake Harbour
+16107,Kimmirut Lake Harbour,Canada,Lake Harbour
 16108,Chapleau,Canada,Chapleau
 16109,Lansdowne House,Canada,Lansdowne House
 16110,Lloydminster,Canada,Lloydminster
@@ -5818,13 +5818,13 @@
 16124,Montreal,Canada,Montreal Metropolitan Area
 16125,Yurimaguas,Peru,Yurimaguas
 16126,Chibougamau,Canada,Chapais
-16127,Manicouagan,Canada,Manic-5
+16127,Manicouagan,Canada,Manic 5
 16128,Montreal,Canada,Montreal International (Mirabel)
 16129,Natashquan,Canada,Natashquan
 16130,Yenbo,Saudi Arabia,Prince Abdulmohsin Bin Abdulaziz
-16131,Gatineau,Canada,Gatineau-Ottawa Executive
+16131,Gatineau,Canada,Gatineau Ottawa Executive
 16132,Norway House,Canada,Norway House
-16133,Youngstown/Warren,OH,Youngstown-Warren Regional
+16133,Youngstown Warren,OH,Youngstown Warren Regional
 16134,Hudson's Hope,Canada,Hudson's Hope
 16135,Yanji,China,Chaoyangchuan
 16136,Nootka Sound,Canada,Nootka Sound
@@ -5833,7 +5833,7 @@
 16139,Yantai,China,Laishan
 16140,Yangyang,South Korea,Yangyang International
 16141,Old Crow,Canada,Old Crow
-16142,Cold Lake,Canada,Cold Lake Group/Captain R. W. McNair
+16142,Cold Lake,Canada,Cold Lake Group Captain R. W. McNair
 16143,Ogoki,Canada,Ogoki
 16144,High Level,Canada,High Level
 16145,Yola,Nigeria,Yola
@@ -5897,8 +5897,8 @@
 16205,Thompson,Canada,Thompson
 16206,Terrace Bay,Canada,Terrace Bay
 16207,Big Trout Lake,Canada,Big Trout Lake
-16208,La Macaza,Canada,Mont-Tremblant International
-16209,Riviere-au-Tonnerre,Canada,Riviere Au Tonnerre
+16208,La Macaza,Canada,Mont Tremblant International
+16209,Riviere au Tonnerre,Canada,Riviere Au Tonnerre
 16210,Toronto,Canada,Toronto Metropolitan Area
 16211,Tofino,Canada,Tofino Seaplane Base
 16212,Tasiujuaq,Canada,Tasiujaq
@@ -5907,10 +5907,10 @@
 16215,Toronto,Canada,Billy Bishop Toronto City
 16216,Tuktoyaktuk,Canada,Tuktoyaktuk
 16217,Montreal,Canada,Pierre Elliott Trudeau International
-16218,Yuma,AZ,Yuma MCAS/Yuma International
+16218,Yuma,AZ,Yuma MCAS Yuma International
 16219,Repulse Bay,Canada,Naujaat
 16220,Hall Beach,Canada,Hall Beach
-16221,Rouyn-Noranda,Canada,Rouyn-Noranda
+16221,Rouyn Noranda,Canada,Rouyn Noranda
 16222,Moroni,Comoros,Iconi
 16223,Bonaventure,Canada,Bonaventure
 16224,Lac La Ronge,Canada,La Ronge
@@ -5926,7 +5926,7 @@
 16234,Deline,Canada,Deline
 16235,Wabush,Canada,Wabush
 16236,Williams Lake,Canada,Williams Lake
-16237,Chute-Des-Passes,Canada,Chute-Des-Passes
+16237,Chute Des Passes,Canada,Chute Des Passes
 16238,White River,Canada,White River
 16239,Wrigley,Canada,Wrigley
 16240,Cranbrook,Canada,Canadian Rockies International
@@ -5961,14 +5961,14 @@
 16269,Kapuskasing,Canada,Kapuskasing
 16270,Mont Joli,Canada,Mont Joli
 16271,Toronto,Canada,Lester B. Pearson International
-16272,Gore Bay,Canada,Gore Bay/Manitoulin
+16272,Gore Bay,Canada,Gore Bay Manitoulin
 16273,Yellowknife,Canada,Yellowknife
 16274,Slave Lake,Canada,Slave Lake
 16275,Sandspit,Canada,Sandspit
 16276,Sarnia,Canada,Chris Hadfield
 16277,Coral Harbour,Canada,Coral Harbour
 16278,Port Hardy,Canada,Port Hardy
-16279,Sept-Iles,Canada,Sept-Iles
+16279,Sept Iles,Canada,Sept Iles
 16280,Alice Arm,Canada,Alice Arm
 16281,Zadar,Croatia,Zadar
 16282,Zagreb,Croatia,Zagreb
@@ -5992,7 +5992,7 @@
 16301,Gethsemani,Canada,Gethsemani
 16302,Zhanjiang,China,Zhanjiang
 16303,Ziguinchor,Senegal,Ziguinchor
-16304,Ixtapa/Zihuatanejo,Mexico,Ixtapa-Zihuatanejo International
+16304,Ixtapa Zihuatanejo,Mexico,Ixtapa Zihuatanejo International
 16305,Kasaba Bay,Zambia,Kasaba Bay
 16306,Manzanillo,Mexico,Playa de Oro International
 16307,La Tabatiere,Canada,La Tabatiere
@@ -6048,7 +6048,7 @@
 16361,Zanesville,OH,Zanesville Municipal
 16363,Fernandina Beach,FL,Fernandina Beach Municipal
 16364,Panama City,Panama,Marcos A Gelabert International
-16385,Ad-Dabbah,Sudan,Ad-Dabbah
+16385,Ad Dabbah,Sudan,Ad Dabbah
 16386,Aua Island,Papua New Guinea,Aua Island
 16387,Abakan,Russia,Abakan
 16388,Barretos,Brazil,Chafei Amsei
@@ -6083,7 +6083,7 @@
 16420,Amendola,Italy,Amendola
 16421,Athens,Greece,Hellinikon
 16422,Gulf Shores,AL,Jack Edwards
-16423,Andalusia/Opp,AL,South Alabama Regional at Bill Benton Field
+16423,Andalusia Opp,AL,South Alabama Regional at Bill Benton Field
 16424,Frankfort,MI,Frankfort Dow Memorial Field
 16425,Potsdam,NY,Potsdam Municipal Damon Field
 16426,Ada,OK,Ada Regional
@@ -6099,13 +6099,13 @@
 16436,Mae Sot,Thailand,Mae Sot
 16437,Oslo,Norway,Oslo Metropolitan Area
 16438,Lima,OH,Lima
-16439,Ulan-Ude,Russia,Mukhino
+16439,Ulan Ude,Russia,Mukhino
 16440,Austin,TX,Robert Mueller Municipal
 16441,Plainville,CT,Robertson Field
 16442,Millbrook,NY,Sky Acres
 16443,Cabo San Lucas,Mexico,Cabo San Lucas International
 16444,Swidwin,Poland,Swidwin
-16445,Driggs,ID,Driggs-Reed Memorial
+16445,Driggs,ID,Driggs Reed Memorial
 16446,Masterton,New Zealand,Masterton
 16447,Sulaymaniyah,Iraq,Sulaymaniyah International
 16448,Forres,United Kingdom,RAF Kinloss
@@ -6117,7 +6117,7 @@
 16454,Hamilton,NY,Hamilton Municipal
 16455,Demopolis,AL,Demopolis Regional
 16456,Jebel Ali,United Arab Emirates,Dubai Al Maktoum International
-16457,Chatham Kent,Canada,Chatham-Kent
+16457,Chatham Kent,Canada,Chatham Kent
 16458,El Palomar,Argentina,El Palomar
 16459,Fremont,OH,Sandusky County Regional
 16460,Barcelos,Brazil,Barcelos
@@ -6138,12 +6138,12 @@
 16475,Durban,South Africa,King Shaka International
 16476,Hyderabad,India,Rajiv Gandhi International
 16477,Queretaro,Mexico,Queretaro Intercontinental
-16478,Lebel-sur-Quevillon,Canada,Lebel-sur-Quevillon
+16478,Lebel sur Quevillon,Canada,Lebel sur Quevillon
 16479,Montague,MA,Turners Falls
 16480,Daqing Shi,China,Saertu
 16481,Bayankhongor,Mongolia,Bayankhongor
 16482,Albert,France,Albert Bray
-16483,Khanty-Mansiysk,Russia,Khanty-Mansiysk
+16483,Khanty Mansiysk,Russia,Khanty Mansiysk
 16484,Zanjan,Iran,Zanjan
 16485,Mamitupo,Panama,Mamitupo
 16486,Greenwood,Canada,Greenwood
@@ -6169,7 +6169,7 @@
 16506,Ekati,Canada,Ekati
 16507,Cheongju,South Korea,Cheongju International
 16508,Squaw Lake,AK,Squaw Lake
-16509,Sevierville,TN,Gatlinburg-Pigeon Forge
+16509,Sevierville,TN,Gatlinburg Pigeon Forge
 16510,Beaufort,NC,Michael J. Smith Field
 16511,Indianapolis,IN,Indianapolis Metro
 16512,Mattituck,NY,Mattituck
@@ -6215,7 +6215,7 @@
 16552,Burlington,NC,Burlington Alamance Regional
 16553,Oxford,ME,Oxford County Regional
 16554,Ganja,Azerbaijan,Ganja
-16555,Midlothian/Waxahachie,TX,Mid Way Regional
+16555,Midlothian Waxahachie,TX,Mid Way Regional
 16556,Nordholz,Germany,Nordholz
 16557,Dwyer,Afghanistan,Dwyer
 16558,Hammond,LA,Hammond Northshore Regional
@@ -6322,11 +6322,11 @@
 16659,Wichita Falls,TX,Kickapoo Downtown
 16660,Gambella,Ethiopia,Gambella
 16661,York,NE,York Municipal
-16662,Naknek-1,AK,Icicle Seafoods
+16662,Naknek 1,AK,Icicle Seafoods
 16663,Jeffersonville,IN,Clark Regional
 16664,Um Almelh,Saudi Arabia,Um Almelh
 16665,Brady,TX,Curtis Field
-16666,Dover-Cheswold,DE,Delware Airpark
+16666,Dover Cheswold,DE,Delware Airpark
 16667,Tamarindo,Costa Rica,Tamarindo de Santa Cruz
 16668,Deadhorse1,AK,Point Thomson Airstrip
 16669,Jasper,AL,Walker County Bevill Field
@@ -6438,7 +6438,7 @@
 16776,Clevland,TN,Cleveland Regional Jetport
 16777,Farmington,PA,Nemacolin
 16778,Middleton,WI,Middleton Municipal Morey Field
-16779,Az-Zarqa,Jordan,King Abdullah II Airbase
+16779,Az Zarqa,Jordan,King Abdullah II Airbase
 16780,Ashland,OH,Ashland County
 16781,Nowy Dwor Mazowieckie,Poland,Modlin
 16782,Dakar Thies,Senegal,Blaise Diagne International
